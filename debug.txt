@@ -1,0 +1,2388 @@
+	SwanOnly=false
+	ScrapingHubOnly=true
+	SwanDataDirectory=C:\Workspaces\jobsite\trufa\Common-Data\Swan
+	ScrapingHubDataDirectory=C:\Workspaces\jobsite\trufa\Common-Data\ScrapingHubSmall
+
+Loading Scrapinghub data into Mongo
+10:47:39
+1. MatchResult:  Input: (4 years 4 months), Output: 000404
+10. MatchResult:  Input: June 2010, Output: 201006
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1988, Output: 198800
+11. MatchResult:  Input: 1992, Output: 199200
+2. MatchResult:  Input: (1 year 9 months), Output: 000109
+10. MatchResult:  Input: January 2013, Output: 201301
+0. MatchResult:  Input: Present, Output: 000000
+10. MatchResult:  Input: September 2013, Output: 201309
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1976, Output: 197600
+11. MatchResult:  Input: 1980, Output: 198000
+0. MatchResult:  Input: Present, Output: 000000
+1. MatchResult:  Input: (16 years 4 months), Output: 001604
+10. MatchResult:  Input: June 1998, Output: 199806
+0. MatchResult:  Input: Present, Output: 000000
+5. MatchResult:  Input: 2 years 10 months, Output: 000210
+10. MatchResult:  Input: February 2012, Output: 201202
+0. MatchResult:  Input: Present, Output: 000000
+9. MatchResult:  Input: 7 months, Output: 000007
+10. MatchResult:  Input: November 2013, Output: 201311
+10. MatchResult:  Input: May 2014, Output: 201405
+11. MatchResult:  Input: 1994, Output: 199400
+11. MatchResult:  Input: 2005, Output: 200500
+1. MatchResult:  Input: (2 years 7 months), Output: 000207
+10. MatchResult:  Input: March 2012, Output: 201203
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2000, Output: 200000
+11. MatchResult:  Input: 2003, Output: 200300
+9. MatchResult:  Input: 9 months, Output: 000009
+10. MatchResult:  Input: March 2014, Output: 201403
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2005, Output: 200500
+11. MatchResult:  Input: 2008, Output: 200800
+0. MatchResult:  Input: Present, Output: 000000
+0. MatchResult:  Input: Present, Output: 000000
+5. MatchResult:  Input: 19 years 11 months, Output: 001911
+10. MatchResult:  Input: January 1995, Output: 199501
+0. MatchResult:  Input: Present, Output: 000000
+9. MatchResult:  Input: 8 months, Output: 000008
+10. MatchResult:  Input: April 2014, Output: 201404
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1970, Output: 197000
+11. MatchResult:  Input: 1975, Output: 197500
+0. MatchResult:  Input: Present, Output: 000000
+6. MatchResult:  Input: 1 year 3 months, Output: 000103
+10. MatchResult:  Input: September 2013, Output: 201309
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1973, Output: 197300
+11. MatchResult:  Input: 1975, Output: 197500
+5. MatchResult:  Input: 2 years 3 months, Output: 000203
+10. MatchResult:  Input: September 2012, Output: 201209
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1984, Output: 198400
+11. MatchResult:  Input: 1987, Output: 198700
+0. MatchResult:  Input: Present, Output: 000000
+6. MatchResult:  Input: 1 year 3 months, Output: 000103
+10. MatchResult:  Input: September 2013, Output: 201309
+0. MatchResult:  Input: Present, Output: 000000
+5. MatchResult:  Input: 2 years 10 months, Output: 000210
+10. MatchResult:  Input: February 2012, Output: 201202
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1988, Output: 198800
+11. MatchResult:  Input: 1990, Output: 199000
+1. MatchResult:  Input: (15 years 7 months), Output: 001507
+10. MatchResult:  Input: March 1999, Output: 199903
+0. MatchResult:  Input: Present, Output: 000000
+1. MatchResult:  Input: (2 years 7 months), Output: 000207
+10. MatchResult:  Input: February 2012, Output: 201202
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1946, Output: 194600
+11. MatchResult:  Input: 1954, Output: 195400
+5. MatchResult:  Input: 2 years 5 months, Output: 000205
+10. MatchResult:  Input: July 2012, Output: 201207
+0. MatchResult:  Input: Present, Output: 000000
+5. MatchResult:  Input: 5 years 10 months, Output: 000510
+10. MatchResult:  Input: February 2009, Output: 200902
+0. MatchResult:  Input: Present, Output: 000000
+5. MatchResult:  Input: 2 years 2 months, Output: 000202
+10. MatchResult:  Input: October 2012, Output: 201210
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2008, Output: 200800
+11. MatchResult:  Input: 2012, Output: 201200
+10. MatchResult:  Input: November 2012, Output: 201211
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2003, Output: 200300
+11. MatchResult:  Input: 2006, Output: 200600
+9. MatchResult:  Input: (7 years), Output: 000700
+10. MatchResult:  Input: January 2006, Output: 200601
+10. MatchResult:  Input: December 2012, Output: 201212
+11. MatchResult:  Input: 1991, Output: 199100
+11. MatchResult:  Input: 1994, Output: 199400
+9. MatchResult:  Input: 5 months, Output: 000005
+10. MatchResult:  Input: July 2014, Output: 201407
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1990, Output: 199000
+11. MatchResult:  Input: 1993, Output: 199300
+5. MatchResult:  Input: 2 years 4 months, Output: 000204
+10. MatchResult:  Input: August 2012, Output: 201208
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1997, Output: 199700
+11. MatchResult:  Input: 2002, Output: 200200
+0. MatchResult:  Input: Present, Output: 000000
+9. MatchResult:  Input: (8 months), Output: 000008
+10. MatchResult:  Input: February 2014, Output: 201402
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2009, Output: 200900
+11. MatchResult:  Input: 2010, Output: 201000
+9. MatchResult:  Input: (9 years), Output: 000900
+11. MatchResult:  Input: 2005, Output: 200500
+0. MatchResult:  Input: Present, Output: 000000
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2011, Output: 201100
+11. MatchResult:  Input: 2014, Output: 201400
+3. MatchResult:  Input: (10 years 1 month), Output: 001001
+10. MatchResult:  Input: September 1977, Output: 197709
+10. MatchResult:  Input: September 1987, Output: 198709
+11. MatchResult:  Input: 2010, Output: 201000
+11. MatchResult:  Input: 2012, Output: 201200
+5. MatchResult:  Input: 25 years 3 months, Output: 002503
+10. MatchResult:  Input: September 1989, Output: 198909
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1983, Output: 198300
+11. MatchResult:  Input: 1990, Output: 199000
+11. MatchResult:  Input: 2008, Output: 200800
+11. MatchResult:  Input: 2010, Output: 201000
+9. MatchResult:  Input: 11 months, Output: 000011
+10. MatchResult:  Input: September 2011, Output: 201109
+10. MatchResult:  Input: July 2012, Output: 201207
+11. MatchResult:  Input: 2009, Output: 200900
+11. MatchResult:  Input: 2011, Output: 201100
+1. MatchResult:  Input: (2 years 2 months), Output: 000202
+10. MatchResult:  Input: August 2012, Output: 201208
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1999, Output: 199900
+11. MatchResult:  Input: 2000, Output: 200000
+9. MatchResult:  Input: 4 years, Output: 000400
+11. MatchResult:  Input: 2009, Output: 200900
+11. MatchResult:  Input: 2013, Output: 201300
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2004, Output: 200400
+11. MatchResult:  Input: 2013, Output: 201300
+5. MatchResult:  Input: 6 years 6 months, Output: 000606
+10. MatchResult:  Input: June 2008, Output: 200806
+0. MatchResult:  Input: Present, Output: 000000
+8. MatchResult:  Input: 1 year 1 month, Output: 000101
+10. MatchResult:  Input: November 2013, Output: 201311
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1995, Output: 199500
+11. MatchResult:  Input: 1997, Output: 199700
+0. MatchResult:  Input: Present, Output: 000000
+0. MatchResult:  Input: Present, Output: 000000
+2. MatchResult:  Input: (1 year 9 months), Output: 000109
+10. MatchResult:  Input: January 2013, Output: 201301
+0. MatchResult:  Input: Present, Output: 000000
+5. MatchResult:  Input: 4 years 5 months, Output: 000405
+10. MatchResult:  Input: July 2010, Output: 201007
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1987, Output: 198700
+11. MatchResult:  Input: 1990, Output: 199000
+5. MatchResult:  Input: 4 years 6 months, Output: 000406
+10. MatchResult:  Input: June 2010, Output: 201006
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2012, Output: 201200
+11. MatchResult:  Input: 2017, Output: 201700
+9. MatchResult:  Input: (1 year), Output: 000100
+11. MatchResult:  Input: 2013, Output: 201300
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2012, Output: 201200
+11. MatchResult:  Input: 2015, Output: 201500
+5. MatchResult:  Input: 18 years 5 months, Output: 001805
+10. MatchResult:  Input: July 1996, Output: 199607
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1973, Output: 197300
+11. MatchResult:  Input: 1978, Output: 197800
+1. MatchResult:  Input: (2 years 9 months), Output: 000209
+10. MatchResult:  Input: January 2012, Output: 201201
+0. MatchResult:  Input: Present, Output: 000000
+6. MatchResult:  Input: 1 year 9 months, Output: 000109
+10. MatchResult:  Input: March 2013, Output: 201303
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2006, Output: 200600
+11. MatchResult:  Input: 2009, Output: 200900
+9. MatchResult:  Input: (7 months), Output: 000007
+10. MatchResult:  Input: March 2014, Output: 201403
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2010, Output: 201000
+11. MatchResult:  Input: 2011, Output: 201100
+0. MatchResult:  Input: Present, Output: 000000
+9. MatchResult:  Input: (2 months), Output: 000002
+10. MatchResult:  Input: August 2014, Output: 201408
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2007, Output: 200700
+11. MatchResult:  Input: 2011, Output: 201100
+6. MatchResult:  Input: 1 year 11 months, Output: 000111
+10. MatchResult:  Input: January 2013, Output: 201301
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2007, Output: 200700
+11. MatchResult:  Input: 2008, Output: 200800
+7. MatchResult:  Input: 4 years 1 month, Output: 000401
+10. MatchResult:  Input: November 2010, Output: 201011
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1986, Output: 198600
+11. MatchResult:  Input: 1990, Output: 199000
+5. MatchResult:  Input: 2 years 9 months, Output: 000209
+10. MatchResult:  Input: March 2012, Output: 201203
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2003, Output: 200300
+11. MatchResult:  Input: 2006, Output: 200600
+0. MatchResult:  Input: Present, Output: 000000
+5. MatchResult:  Input: 2 years 10 months, Output: 000210
+10. MatchResult:  Input: February 2012, Output: 201202
+0. MatchResult:  Input: Present, Output: 000000
+1. MatchResult:  Input: (3 years 11 months), Output: 000311
+10. MatchResult:  Input: October 2010, Output: 201010
+0. MatchResult:  Input: Present, Output: 000000
+1. MatchResult:  Input: (4 years 8 months), Output: 000408
+10. MatchResult:  Input: January 2010, Output: 201001
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1999, Output: 199900
+11. MatchResult:  Input: 2003, Output: 200300
+0. MatchResult:  Input: Present, Output: 000000
+9. MatchResult:  Input: 7 months, Output: 000007
+10. MatchResult:  Input: May 2014, Output: 201405
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2003, Output: 200300
+11. MatchResult:  Input: 2006, Output: 200600
+5. MatchResult:  Input: 14 years 11 months, Output: 001411
+10. MatchResult:  Input: January 2000, Output: 200001
+0. MatchResult:  Input: Present, Output: 000000
+0. MatchResult:  Input: Present, Output: 000000
+5. MatchResult:  Input: 2 years 2 months, Output: 000202
+10. MatchResult:  Input: October 2012, Output: 201210
+0. MatchResult:  Input: Present, Output: 000000
+9. MatchResult:  Input: 1 year, Output: 000100
+10. MatchResult:  Input: December 2013, Output: 201312
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2008, Output: 200800
+11. MatchResult:  Input: 2009, Output: 200900
+9. MatchResult:  Input: 11 months, Output: 000011
+10. MatchResult:  Input: January 2014, Output: 201401
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1974, Output: 197400
+11. MatchResult:  Input: 1980, Output: 198000
+0. MatchResult:  Input: Present, Output: 000000
+5. MatchResult:  Input: 4 years 2 months, Output: 000402
+10. MatchResult:  Input: October 2010, Output: 201010
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1977, Output: 197700
+11. MatchResult:  Input: 1982, Output: 198200
+0. MatchResult:  Input: Present, Output: 000000
+0. MatchResult:  Input: Present, Output: 000000
+1. MatchResult:  Input: (3 years 6 months), Output: 000306
+10. MatchResult:  Input: April 2011, Output: 201104
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2006, Output: 200600
+11. MatchResult:  Input: 2010, Output: 201000
+9. MatchResult:  Input: 3 years, Output: 000300
+10. MatchResult:  Input: December 2011, Output: 201112
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1952, Output: 195200
+11. MatchResult:  Input: 1956, Output: 195600
+6. MatchResult:  Input: 1 year 3 months, Output: 000103
+10. MatchResult:  Input: September 2013, Output: 201309
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2012, Output: 201200
+11. MatchResult:  Input: 2015, Output: 201500
+6. MatchResult:  Input: 1 year 10 months, Output: 000110
+10. MatchResult:  Input: February 2013, Output: 201302
+0. MatchResult:  Input: Present, Output: 000000
+9. MatchResult:  Input: (2 years), Output: 000200
+11. MatchResult:  Input: 2009, Output: 200900
+11. MatchResult:  Input: 2011, Output: 201100
+9. MatchResult:  Input: 5 months, Output: 000005
+10. MatchResult:  Input: July 2014, Output: 201407
+0. MatchResult:  Input: Present, Output: 000000
+0. MatchResult:  Input: Present, Output: 000000
+0. MatchResult:  Input: Present, Output: 000000
+0. MatchResult:  Input: Present, Output: 000000
+0. MatchResult:  Input: Present, Output: 000000
+1. MatchResult:  Input: (4 years 9 months), Output: 000409
+10. MatchResult:  Input: January 2010, Output: 201001
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2009, Output: 200900
+5. MatchResult:  Input: 2 years 10 months, Output: 000210
+10. MatchResult:  Input: February 2012, Output: 201202
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2007, Output: 200700
+11. MatchResult:  Input: 2010, Output: 201000
+6. MatchResult:  Input: 1 year 5 months, Output: 000105
+10. MatchResult:  Input: July 2013, Output: 201307
+0. MatchResult:  Input: Present, Output: 000000
+0. MatchResult:  Input: Present, Output: 000000
+5. MatchResult:  Input: 8 years 10 months, Output: 000810
+10. MatchResult:  Input: February 2006, Output: 200602
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1989, Output: 198900
+11. MatchResult:  Input: 1992, Output: 199200
+0. MatchResult:  Input: Present, Output: 000000
+9. MatchResult:  Input: 6 years, Output: 000600
+11. MatchResult:  Input: 2008, Output: 200800
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2008, Output: 200800
+11. MatchResult:  Input: 2012, Output: 201200
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2000, Output: 200000
+11. MatchResult:  Input: 2003, Output: 200300
+0. MatchResult:  Input: Present, Output: 000000
+9. MatchResult:  Input: 9 months, Output: 000009
+10. MatchResult:  Input: March 2014, Output: 201403
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1994, Output: 199400
+11. MatchResult:  Input: 1996, Output: 199600
+6. MatchResult:  Input: 1 year 6 months, Output: 000106
+10. MatchResult:  Input: June 2013, Output: 201306
+0. MatchResult:  Input: Present, Output: 000000
+5. MatchResult:  Input: 4 years 2 months, Output: 000402
+10. MatchResult:  Input: October 2010, Output: 201010
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1987, Output: 198700
+11. MatchResult:  Input: 1989, Output: 198900
+9. MatchResult:  Input: 18 years, Output: 001800
+10. MatchResult:  Input: December 1996, Output: 199612
+0. MatchResult:  Input: Present, Output: 000000
+9. MatchResult:  Input: 1 year, Output: 000100
+11. MatchResult:  Input: 2012, Output: 201200
+11. MatchResult:  Input: 2013, Output: 201300
+1. MatchResult:  Input: (3 years 9 months), Output: 000309
+10. MatchResult:  Input: January 2011, Output: 201101
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1971, Output: 197100
+11. MatchResult:  Input: 1977, Output: 197700
+5. MatchResult:  Input: 5 years 11 months, Output: 000511
+10. MatchResult:  Input: January 2009, Output: 200901
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1996, Output: 199600
+11. MatchResult:  Input: 1999, Output: 199900
+5. MatchResult:  Input: 3 years 9 months, Output: 000309
+10. MatchResult:  Input: March 2011, Output: 201103
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1989, Output: 198900
+11. MatchResult:  Input: 1993, Output: 199300
+9. MatchResult:  Input: (2 months), Output: 000002
+10. MatchResult:  Input: July 2014, Output: 201407
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2011, Output: 201100
+11. MatchResult:  Input: 2017, Output: 201700
+2. MatchResult:  Input: (1 year 3 months), Output: 000103
+10. MatchResult:  Input: July 2013, Output: 201307
+0. MatchResult:  Input: Present, Output: 000000
+0. MatchResult:  Input: Present, Output: 000000
+6. MatchResult:  Input: 1 year 5 months, Output: 000105
+10. MatchResult:  Input: July 2013, Output: 201307
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2005, Output: 200500
+11. MatchResult:  Input: 2010, Output: 201000
+9. MatchResult:  Input: 7 months, Output: 000007
+10. MatchResult:  Input: May 2014, Output: 201405
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2002, Output: 200200
+11. MatchResult:  Input: 2003, Output: 200300
+0. MatchResult:  Input: Present, Output: 000000
+9. MatchResult:  Input: 10 months, Output: 000010
+10. MatchResult:  Input: February 2014, Output: 201402
+0. MatchResult:  Input: Present, Output: 000000
+0. MatchResult:  Input: Present, Output: 000000
+5. MatchResult:  Input: 2 years 6 months, Output: 000206
+10. MatchResult:  Input: June 2012, Output: 201206
+0. MatchResult:  Input: Present, Output: 000000
+10. MatchResult:  Input: May 2011, Output: 201105
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2011, Output: 201100
+11. MatchResult:  Input: 2014, Output: 201400
+5. MatchResult:  Input: 5 years 11 months, Output: 000511
+10. MatchResult:  Input: January 2009, Output: 200901
+0. MatchResult:  Input: Present, Output: 000000
+0. MatchResult:  Input: Present, Output: 000000
+1. MatchResult:  Input: (4 years 8 months), Output: 000408
+10. MatchResult:  Input: February 2010, Output: 201002
+0. MatchResult:  Input: Present, Output: 000000
+9. MatchResult:  Input: (7 years), Output: 000700
+10. MatchResult:  Input: October 2007, Output: 200710
+0. MatchResult:  Input: Present, Output: 000000
+2. MatchResult:  Input: (1 year 4 months), Output: 000104
+10. MatchResult:  Input: June 2013, Output: 201306
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2001, Output: 200100
+11. MatchResult:  Input: 2007, Output: 200700
+6. MatchResult:  Input: 1 year 9 months, Output: 000109
+10. MatchResult:  Input: March 2013, Output: 201303
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1986, Output: 198600
+11. MatchResult:  Input: 1989, Output: 198900
+1. MatchResult:  Input: (2 years 8 months), Output: 000208
+10. MatchResult:  Input: February 2012, Output: 201202
+0. MatchResult:  Input: Present, Output: 000000
+6. MatchResult:  Input: 1 year 10 months, Output: 000110
+10. MatchResult:  Input: February 2013, Output: 201302
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1990, Output: 199000
+11. MatchResult:  Input: 1995, Output: 199500
+6. MatchResult:  Input: 1 year 9 months, Output: 000109
+10. MatchResult:  Input: May 2009, Output: 200905
+10. MatchResult:  Input: January 2011, Output: 201101
+5. MatchResult:  Input: 9 years 7 months, Output: 000907
+10. MatchResult:  Input: May 2005, Output: 200505
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2003, Output: 200300
+11. MatchResult:  Input: 2004, Output: 200400
+5. MatchResult:  Input: 4 years 8 months, Output: 000408
+10. MatchResult:  Input: April 2010, Output: 201004
+0. MatchResult:  Input: Present, Output: 000000
+1. MatchResult:  Input: (3 years 3 months), Output: 000303
+10. MatchResult:  Input: July 2011, Output: 201107
+0. MatchResult:  Input: Present, Output: 000000
+5. MatchResult:  Input: 2 years 2 months, Output: 000202
+10. MatchResult:  Input: October 2012, Output: 201210
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2013, Output: 201300
+11. MatchResult:  Input: 2015, Output: 201500
+5. MatchResult:  Input: 27 years 7 months, Output: 002707
+10. MatchResult:  Input: May 1987, Output: 198705
+0. MatchResult:  Input: Present, Output: 000000
+5. MatchResult:  Input: 3 years 4 months, Output: 000304
+10. MatchResult:  Input: August 2011, Output: 201108
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1998, Output: 199800
+11. MatchResult:  Input: 2001, Output: 200100
+6. MatchResult:  Input: 1 year 11 months, Output: 000111
+10. MatchResult:  Input: January 2013, Output: 201301
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2011, Output: 201100
+9. MatchResult:  Input: 7 months, Output: 000007
+10. MatchResult:  Input: May 2014, Output: 201405
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2008, Output: 200800
+11. MatchResult:  Input: 2011, Output: 201100
+9. MatchResult:  Input: 4 years, Output: 000400
+11. MatchResult:  Input: 2007, Output: 200700
+11. MatchResult:  Input: 2011, Output: 201100
+11. MatchResult:  Input: 2007, Output: 200700
+11. MatchResult:  Input: 2011, Output: 201100
+5. MatchResult:  Input: 11 years 3 months, Output: 001103
+10. MatchResult:  Input: September 2003, Output: 200309
+0. MatchResult:  Input: Present, Output: 000000
+5. MatchResult:  Input: 5 years 7 months, Output: 000507
+10. MatchResult:  Input: May 2009, Output: 200905
+0. MatchResult:  Input: Present, Output: 000000
+5. MatchResult:  Input: 2 years 11 months, Output: 000211
+10. MatchResult:  Input: January 2012, Output: 201201
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1993, Output: 199300
+11. MatchResult:  Input: 1994, Output: 199400
+11. MatchResult:  Input: 2006, Output: 200600
+11. MatchResult:  Input: 2008, Output: 200800
+11. MatchResult:  Input: 1999, Output: 199900
+11. MatchResult:  Input: 2001, Output: 200100
+0. MatchResult:  Input: Present, Output: 000000
+7. MatchResult:  Input: 13 years 1 month, Output: 001301
+10. MatchResult:  Input: March 2001, Output: 200103
+10. MatchResult:  Input: March 2014, Output: 201403
+11. MatchResult:  Input: 2011, Output: 201100
+11. MatchResult:  Input: 2014, Output: 201400
+0. MatchResult:  Input: Present, Output: 000000
+5. MatchResult:  Input: 3 years 4 months, Output: 000304
+10. MatchResult:  Input: September 2009, Output: 200909
+10. MatchResult:  Input: December 2012, Output: 201212
+11. MatchResult:  Input: 2008, Output: 200800
+11. MatchResult:  Input: 2011, Output: 201100
+11. MatchResult:  Input: 2009, Output: 200900
+11. MatchResult:  Input: 2012, Output: 201200
+5. MatchResult:  Input: 7 years 2 months, Output: 000702
+10. MatchResult:  Input: October 2007, Output: 200710
+0. MatchResult:  Input: Present, Output: 000000
+0. MatchResult:  Input: Present, Output: 000000
+5. MatchResult:  Input: 4 years 6 months, Output: 000406
+10. MatchResult:  Input: June 2010, Output: 201006
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1990, Output: 199000
+11. MatchResult:  Input: 1993, Output: 199300
+0. MatchResult:  Input: Present, Output: 000000
+5. MatchResult:  Input: 2 years 8 months, Output: 000208
+10. MatchResult:  Input: April 2012, Output: 201204
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1995, Output: 199500
+11. MatchResult:  Input: 1998, Output: 199800
+1. MatchResult:  Input: (2 years 2 months), Output: 000202
+10. MatchResult:  Input: August 2012, Output: 201208
+0. MatchResult:  Input: Present, Output: 000000
+9. MatchResult:  Input: (10 years), Output: 001000
+11. MatchResult:  Input: 2004, Output: 200400
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2011, Output: 201100
+11. MatchResult:  Input: 2014, Output: 201400
+5. MatchResult:  Input: 5 years 8 months, Output: 000508
+10. MatchResult:  Input: April 2009, Output: 200904
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1980, Output: 198000
+11. MatchResult:  Input: 1984, Output: 198400
+9. MatchResult:  Input: 4 months, Output: 000004
+10. MatchResult:  Input: August 2014, Output: 201408
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2009, Output: 200900
+11. MatchResult:  Input: 2014, Output: 201400
+11. MatchResult:  Input: 1990, Output: 199000
+11. MatchResult:  Input: 1992, Output: 199200
+11. MatchResult:  Input: 2009, Output: 200900
+11. MatchResult:  Input: 2013, Output: 201300
+10. MatchResult:  Input: July 2006, Output: 200607
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1980, Output: 198000
+11. MatchResult:  Input: 1984, Output: 198400
+5. MatchResult:  Input: 4 years 8 months, Output: 000408
+10. MatchResult:  Input: April 2010, Output: 201004
+0. MatchResult:  Input: Present, Output: 000000
+7. MatchResult:  Input: 4 years 1 month, Output: 000401
+10. MatchResult:  Input: November 2010, Output: 201011
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2004, Output: 200400
+11. MatchResult:  Input: 2006, Output: 200600
+5. MatchResult:  Input: 2 years 11 months, Output: 000211
+10. MatchResult:  Input: January 2012, Output: 201201
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2005, Output: 200500
+11. MatchResult:  Input: 2009, Output: 200900
+0. MatchResult:  Input: Present, Output: 000000
+0. MatchResult:  Input: Present, Output: 000000
+0. MatchResult:  Input: Present, Output: 000000
+0. MatchResult:  Input: Present, Output: 000000
+5. MatchResult:  Input: 13 years 3 months, Output: 001303
+10. MatchResult:  Input: September 2001, Output: 200109
+0. MatchResult:  Input: Present, Output: 000000
+1. MatchResult:  Input: (7 years 2 months), Output: 000702
+10. MatchResult:  Input: August 2007, Output: 200708
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1993, Output: 199300
+11. MatchResult:  Input: 1997, Output: 199700
+1. MatchResult:  Input: (10 years 10 months), Output: 001010
+10. MatchResult:  Input: January 1998, Output: 199801
+10. MatchResult:  Input: October 2008, Output: 200810
+11. MatchResult:  Input: 1972, Output: 197200
+11. MatchResult:  Input: 1976, Output: 197600
+5. MatchResult:  Input: 2 years 9 months, Output: 000209
+10. MatchResult:  Input: March 2012, Output: 201203
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2006, Output: 200600
+11. MatchResult:  Input: 2010, Output: 201000
+5. MatchResult:  Input: 7 years 2 months, Output: 000702
+10. MatchResult:  Input: April 2006, Output: 200604
+10. MatchResult:  Input: May 2013, Output: 201305
+11. MatchResult:  Input: 1978, Output: 197800
+11. MatchResult:  Input: 1982, Output: 198200
+1. MatchResult:  Input: (14 years 9 months), Output: 001409
+10. MatchResult:  Input: January 2000, Output: 200001
+0. MatchResult:  Input: Present, Output: 000000
+0. MatchResult:  Input: Present, Output: 000000
+10. MatchResult:  Input: May 1988, Output: 198805
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1966, Output: 196600
+11. MatchResult:  Input: 1971, Output: 197100
+6. MatchResult:  Input: 1 year 8 months, Output: 000108
+10. MatchResult:  Input: April 2013, Output: 201304
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1998, Output: 199800
+11. MatchResult:  Input: 1999, Output: 199900
+7. MatchResult:  Input: 11 years 1 month, Output: 001101
+10. MatchResult:  Input: November 2003, Output: 200311
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1986, Output: 198600
+11. MatchResult:  Input: 1991, Output: 199100
+5. MatchResult:  Input: 4 years 3 months, Output: 000403
+10. MatchResult:  Input: September 2010, Output: 201009
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2011, Output: 201100
+11. MatchResult:  Input: 2014, Output: 201400
+2. MatchResult:  Input: (1 year 5 months), Output: 000105
+10. MatchResult:  Input: May 2013, Output: 201305
+10. MatchResult:  Input: September 2014, Output: 201409
+11. MatchResult:  Input: 2014, Output: 201400
+11. MatchResult:  Input: 2018, Output: 201800
+6. MatchResult:  Input: 1 year 7 months, Output: 000107
+10. MatchResult:  Input: May 2013, Output: 201305
+0. MatchResult:  Input: Present, Output: 000000
+9. MatchResult:  Input: 10 months, Output: 000010
+10. MatchResult:  Input: February 2014, Output: 201402
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2009, Output: 200900
+11. MatchResult:  Input: 2013, Output: 201300
+5. MatchResult:  Input: 14 years 7 months, Output: 001407
+10. MatchResult:  Input: May 2000, Output: 200005
+0. MatchResult:  Input: Present, Output: 000000
+5. MatchResult:  Input: 2 years 7 months, Output: 000207
+10. MatchResult:  Input: May 2012, Output: 201205
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2014, Output: 201400
+0. MatchResult:  Input: Present, Output: 000000
+1. MatchResult:  Input: (3 years 9 months), Output: 000309
+10. MatchResult:  Input: January 2011, Output: 201101
+0. MatchResult:  Input: Present, Output: 000000
+0. MatchResult:  Input: Present, Output: 000000
+5. MatchResult:  Input: 17 years 10 months, Output: 001710
+10. MatchResult:  Input: February 1997, Output: 199702
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1969, Output: 196900
+11. MatchResult:  Input: 1977, Output: 197700
+6. MatchResult:  Input: 1 year 4 months, Output: 000104
+10. MatchResult:  Input: August 2013, Output: 201308
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2010, Output: 201000
+11. MatchResult:  Input: 2013, Output: 201300
+9. MatchResult:  Input: 11 months, Output: 000011
+10. MatchResult:  Input: January 2014, Output: 201401
+0. MatchResult:  Input: Present, Output: 000000
+0. MatchResult:  Input: Present, Output: 000000
+1. MatchResult:  Input: (10 years 6 months), Output: 001006
+10. MatchResult:  Input: March 2004, Output: 200403
+0. MatchResult:  Input: Present, Output: 000000
+5. MatchResult:  Input: 8 years 2 months, Output: 000802
+10. MatchResult:  Input: October 2006, Output: 200610
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1997, Output: 199700
+11. MatchResult:  Input: 2000, Output: 200000
+1. MatchResult:  Input: (3 years 9 months), Output: 000309
+10. MatchResult:  Input: January 2011, Output: 201101
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1963, Output: 196300
+11. MatchResult:  Input: 1970, Output: 197000
+0. MatchResult:  Input: Present, Output: 000000
+9. MatchResult:  Input: (6 months), Output: 000006
+10. MatchResult:  Input: April 2014, Output: 201404
+0. MatchResult:  Input: Present, Output: 000000
+0. MatchResult:  Input: Present, Output: 000000
+9. MatchResult:  Input: (18 years), Output: 001800
+10. MatchResult:  Input: October 1996, Output: 199610
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1995, Output: 199500
+11. MatchResult:  Input: 1996, Output: 199600
+5. MatchResult:  Input: 7 years 5 months, Output: 000705
+10. MatchResult:  Input: July 2007, Output: 200707
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1999, Output: 199900
+11. MatchResult:  Input: 2002, Output: 200200
+5. MatchResult:  Input: 3 years 3 months, Output: 000303
+10. MatchResult:  Input: September 2011, Output: 201109
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1995, Output: 199500
+11. MatchResult:  Input: 1997, Output: 199700
+7. MatchResult:  Input: 4 years 1 month, Output: 000401
+10. MatchResult:  Input: November 2010, Output: 201011
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1965, Output: 196500
+11. MatchResult:  Input: 1968, Output: 196800
+0. MatchResult:  Input: Present, Output: 000000
+6. MatchResult:  Input: 1 year 8 months, Output: 000108
+10. MatchResult:  Input: April 2013, Output: 201304
+0. MatchResult:  Input: Present, Output: 000000
+5. MatchResult:  Input: 3 years 4 months, Output: 000304
+10. MatchResult:  Input: August 2011, Output: 201108
+0. MatchResult:  Input: Present, Output: 000000
+5. MatchResult:  Input: 2 years 6 months, Output: 000206
+10. MatchResult:  Input: June 2012, Output: 201206
+0. MatchResult:  Input: Present, Output: 000000
+5. MatchResult:  Input: 2 years 8 months, Output: 000208
+10. MatchResult:  Input: April 2012, Output: 201204
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2004, Output: 200400
+11. MatchResult:  Input: 2007, Output: 200700
+1. MatchResult:  Input: (10 years 10 months), Output: 001010
+10. MatchResult:  Input: November 2003, Output: 200311
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1999, Output: 199900
+11. MatchResult:  Input: 2003, Output: 200300
+7. MatchResult:  Input: 2 years 1 month, Output: 000201
+10. MatchResult:  Input: November 2012, Output: 201211
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1971, Output: 197100
+11. MatchResult:  Input: 1978, Output: 197800
+9. MatchResult:  Input: 7 months, Output: 000007
+10. MatchResult:  Input: May 2014, Output: 201405
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1975, Output: 197500
+11. MatchResult:  Input: 1979, Output: 197900
+6. MatchResult:  Input: 1 year 5 months, Output: 000105
+10. MatchResult:  Input: July 2013, Output: 201307
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2008, Output: 200800
+11. MatchResult:  Input: 2012, Output: 201200
+1. MatchResult:  Input: (2 years 9 months), Output: 000209
+10. MatchResult:  Input: January 2012, Output: 201201
+0. MatchResult:  Input: Present, Output: 000000
+9. MatchResult:  Input: (4 months), Output: 000004
+10. MatchResult:  Input: June 2014, Output: 201406
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2006, Output: 200600
+11. MatchResult:  Input: 2009, Output: 200900
+7. MatchResult:  Input: 4 years 1 month, Output: 000401
+10. MatchResult:  Input: November 2010, Output: 201011
+0. MatchResult:  Input: Present, Output: 000000
+5. MatchResult:  Input: 2 years 11 months, Output: 000211
+10. MatchResult:  Input: January 2012, Output: 201201
+0. MatchResult:  Input: Present, Output: 000000
+9. MatchResult:  Input: 9 years, Output: 000900
+11. MatchResult:  Input: 2005, Output: 200500
+0. MatchResult:  Input: Present, Output: 000000
+1. MatchResult:  Input: (4 years 5 months), Output: 000405
+10. MatchResult:  Input: April 2010, Output: 201004
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1994, Output: 199400
+11. MatchResult:  Input: 1995, Output: 199500
+11. MatchResult:  Input: 2009, Output: 200900
+11. MatchResult:  Input: 2010, Output: 201000
+7. MatchResult:  Input: 7 years 1 month, Output: 000701
+10. MatchResult:  Input: November 2007, Output: 200711
+0. MatchResult:  Input: Present, Output: 000000
+1. MatchResult:  Input: (11 years 9 months), Output: 001109
+10. MatchResult:  Input: January 2003, Output: 200301
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1997, Output: 199700
+11. MatchResult:  Input: 2001, Output: 200100
+9. MatchResult:  Input: 2 months, Output: 000002
+10. MatchResult:  Input: June 2012, Output: 201206
+10. MatchResult:  Input: July 2012, Output: 201207
+11. MatchResult:  Input: 2013, Output: 201300
+11. MatchResult:  Input: 2016, Output: 201600
+5. MatchResult:  Input: 2 years 6 months, Output: 000206
+10. MatchResult:  Input: June 2012, Output: 201206
+0. MatchResult:  Input: Present, Output: 000000
+5. MatchResult:  Input: 12 years 4 months, Output: 001204
+10. MatchResult:  Input: August 2002, Output: 200208
+0. MatchResult:  Input: Present, Output: 000000
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2000, Output: 200000
+11. MatchResult:  Input: 2002, Output: 200200
+0. MatchResult:  Input: Present, Output: 000000
+0. MatchResult:  Input: Present, Output: 000000
+6. MatchResult:  Input: 1 year 3 months, Output: 000103
+10. MatchResult:  Input: September 2013, Output: 201309
+10. MatchResult:  Input: November 2014, Output: 201411
+11. MatchResult:  Input: 1999, Output: 199900
+11. MatchResult:  Input: 2001, Output: 200100
+0. MatchResult:  Input: Present, Output: 000000
+5. MatchResult:  Input: 2 years 10 months, Output: 000210
+10. MatchResult:  Input: February 2012, Output: 201202
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1975, Output: 197500
+11. MatchResult:  Input: 1978, Output: 197800
+11. MatchResult:  Input: 2007, Output: 200700
+11. MatchResult:  Input: 2010, Output: 201000
+9. MatchResult:  Input: 11 months, Output: 000011
+10. MatchResult:  Input: January 2014, Output: 201401
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1977, Output: 197700
+11. MatchResult:  Input: 1977, Output: 197700
+0. MatchResult:  Input: Present, Output: 000000
+6. MatchResult:  Input: 1 year 3 months, Output: 000103
+10. MatchResult:  Input: September 2013, Output: 201309
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2013, Output: 201300
+11. MatchResult:  Input: 2013, Output: 201300
+5. MatchResult:  Input: 11 years 5 months, Output: 001105
+10. MatchResult:  Input: July 2003, Output: 200307
+0. MatchResult:  Input: Present, Output: 000000
+5. MatchResult:  Input: 13 years 8 months, Output: 001308
+10. MatchResult:  Input: April 2001, Output: 200104
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1973, Output: 197300
+11. MatchResult:  Input: 1977, Output: 197700
+0. MatchResult:  Input: Present, Output: 000000
+5. MatchResult:  Input: 2 years 9 months, Output: 000209
+10. MatchResult:  Input: March 2012, Output: 201203
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1973, Output: 197300
+11. MatchResult:  Input: 1980, Output: 198000
+0. MatchResult:  Input: Present, Output: 000000
+9. MatchResult:  Input: 8 months, Output: 000008
+10. MatchResult:  Input: April 2014, Output: 201404
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2002, Output: 200200
+11. MatchResult:  Input: 2005, Output: 200500
+10. MatchResult:  Input: December 1999, Output: 199912
+0. MatchResult:  Input: Present, Output: 000000
+0. MatchResult:  Input: Present, Output: 000000
+1. MatchResult:  Input: (3 years 6 months), Output: 000306
+10. MatchResult:  Input: April 2011, Output: 201104
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2009, Output: 200900
+11. MatchResult:  Input: 2012, Output: 201200
+0. MatchResult:  Input: Present, Output: 000000
+5. MatchResult:  Input: 2 years 11 months, Output: 000211
+10. MatchResult:  Input: January 2012, Output: 201201
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2005, Output: 200500
+11. MatchResult:  Input: 2009, Output: 200900
+11. MatchResult:  Input: 2007, Output: 200700
+11. MatchResult:  Input: 2010, Output: 201000
+11. MatchResult:  Input: 2009, Output: 200900
+11. MatchResult:  Input: 2012, Output: 201200
+5. MatchResult:  Input: 8 years 11 months, Output: 000811
+10. MatchResult:  Input: January 2006, Output: 200601
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1963, Output: 196300
+11. MatchResult:  Input: 1969, Output: 196900
+9. MatchResult:  Input: 9 months, Output: 000009
+10. MatchResult:  Input: March 2014, Output: 201403
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2010, Output: 201000
+11. MatchResult:  Input: 2013, Output: 201300
+9. MatchResult:  Input: 11 years, Output: 001100
+11. MatchResult:  Input: 2003, Output: 200300
+0. MatchResult:  Input: Present, Output: 000000
+5. MatchResult:  Input: 4 years 3 months, Output: 000403
+10. MatchResult:  Input: September 2010, Output: 201009
+0. MatchResult:  Input: Present, Output: 000000
+5. MatchResult:  Input: 5 years 5 months, Output: 000505
+10. MatchResult:  Input: July 2009, Output: 200907
+0. MatchResult:  Input: Present, Output: 000000
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2004, Output: 200400
+11. MatchResult:  Input: 2008, Output: 200800
+9. MatchResult:  Input: 7 months, Output: 000007
+10. MatchResult:  Input: May 2014, Output: 201405
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1994, Output: 199400
+11. MatchResult:  Input: 1998, Output: 199800
+2. MatchResult:  Input: (1 year 4 months), Output: 000104
+10. MatchResult:  Input: June 2013, Output: 201306
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1996, Output: 199600
+11. MatchResult:  Input: 2003, Output: 200300
+0. MatchResult:  Input: Present, Output: 000000
+1. MatchResult:  Input: (3 years 4 months), Output: 000304
+10. MatchResult:  Input: June 2011, Output: 201106
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2009, Output: 200900
+11. MatchResult:  Input: 2011, Output: 201100
+5. MatchResult:  Input: 8 years 2 months, Output: 000802
+10. MatchResult:  Input: October 2006, Output: 200610
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2003, Output: 200300
+11. MatchResult:  Input: 2006, Output: 200600
+9. MatchResult:  Input: 7 months, Output: 000007
+10. MatchResult:  Input: May 2014, Output: 201405
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2003, Output: 200300
+11. MatchResult:  Input: 2006, Output: 200600
+9. MatchResult:  Input: 2 months, Output: 000002
+10. MatchResult:  Input: October 2014, Output: 201410
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2006, Output: 200600
+11. MatchResult:  Input: 2008, Output: 200800
+9. MatchResult:  Input: 5 months, Output: 000005
+10. MatchResult:  Input: July 2014, Output: 201407
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2010, Output: 201000
+11. MatchResult:  Input: 2014, Output: 201400
+5. MatchResult:  Input: 8 years 11 months, Output: 000811
+10. MatchResult:  Input: January 2006, Output: 200601
+0. MatchResult:  Input: Present, Output: 000000
+0. MatchResult:  Input: Present, Output: 000000
+1. MatchResult:  Input: (2 years 3 months), Output: 000203
+10. MatchResult:  Input: June 2012, Output: 201206
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2003, Output: 200300
+11. MatchResult:  Input: 2007, Output: 200700
+5. MatchResult:  Input: 3 years 2 months, Output: 000302
+10. MatchResult:  Input: October 2011, Output: 201110
+0. MatchResult:  Input: Present, Output: 000000
+4. MatchResult:  Input: (1 year 1 month), Output: 000101
+10. MatchResult:  Input: February 2013, Output: 201302
+10. MatchResult:  Input: February 2014, Output: 201402
+9. MatchResult:  Input: (1 year), Output: 000100
+10. MatchResult:  Input: September 2013, Output: 201309
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2008, Output: 200800
+11. MatchResult:  Input: 2012, Output: 201200
+9. MatchResult:  Input: 29 years, Output: 002900
+11. MatchResult:  Input: 1985, Output: 198500
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1985, Output: 198500
+11. MatchResult:  Input: 1988, Output: 198800
+11. MatchResult:  Input: 1994, Output: 199400
+11. MatchResult:  Input: 1995, Output: 199500
+11. MatchResult:  Input: 2011, Output: 201100
+11. MatchResult:  Input: 2014, Output: 201400
+9. MatchResult:  Input: 4 months, Output: 000004
+10. MatchResult:  Input: August 2014, Output: 201408
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2014, Output: 201400
+11. MatchResult:  Input: 2020, Output: 202000
+5. MatchResult:  Input: 2 years 7 months, Output: 000207
+10. MatchResult:  Input: May 2012, Output: 201205
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1968, Output: 196800
+11. MatchResult:  Input: 1973, Output: 197300
+0. MatchResult:  Input: Present, Output: 000000
+9. MatchResult:  Input: 11 months, Output: 000011
+10. MatchResult:  Input: January 2014, Output: 201401
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2010, Output: 201000
+11. MatchResult:  Input: 2013, Output: 201300
+9. MatchResult:  Input: (2 years), Output: 000200
+10. MatchResult:  Input: October 2012, Output: 201210
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2011, Output: 201100
+11. MatchResult:  Input: 2013, Output: 201300
+0. MatchResult:  Input: Present, Output: 000000
+9. MatchResult:  Input: 2 months, Output: 000002
+10. MatchResult:  Input: October 2014, Output: 201410
+0. MatchResult:  Input: Present, Output: 000000
+9. MatchResult:  Input: 6 years, Output: 000600
+11. MatchResult:  Input: 2008, Output: 200800
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1991, Output: 199100
+11. MatchResult:  Input: 1994, Output: 199400
+UNKNOWN RESULT: (2 Jahre), Unknown
+10. MatchResult:  Input: Oktober 2012, Output: 2012Oktober
+0. MatchResult:  Input: Aktuell, Output: 000000
+11. MatchResult:  Input: 2011, Output: 201100
+11. MatchResult:  Input: 2012, Output: 201200
+5. MatchResult:  Input: 19 years 10 months, Output: 001910
+10. MatchResult:  Input: February 1995, Output: 199502
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1979, Output: 197900
+11. MatchResult:  Input: 1981, Output: 198100
+UNKNOWN RESULT: less than a year, Unknown
+11. MatchResult:  Input: 2012, Output: 201200
+11. MatchResult:  Input: 2012, Output: 201200
+1. MatchResult:  Input: (6 years 2 months), Output: 000602
+10. MatchResult:  Input: July 2008, Output: 200807
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1988, Output: 198800
+11. MatchResult:  Input: 1991, Output: 199100
+6. MatchResult:  Input: 1 year 9 months, Output: 000109
+10. MatchResult:  Input: March 2013, Output: 201303
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2010, Output: 201000
+11. MatchResult:  Input: 2010, Output: 201000
+0. MatchResult:  Input: Present, Output: 000000
+7. MatchResult:  Input: 2 years 1 month, Output: 000201
+10. MatchResult:  Input: November 2012, Output: 201211
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2009, Output: 200900
+11. MatchResult:  Input: 2012, Output: 201200
+1. MatchResult:  Input: (7 years 4 months), Output: 000704
+10. MatchResult:  Input: June 2007, Output: 200706
+0. MatchResult:  Input: Present, Output: 000000
+0. MatchResult:  Input: Present, Output: 000000
+0. MatchResult:  Input: Present, Output: 000000
+9. MatchResult:  Input: (4 months), Output: 000004
+10. MatchResult:  Input: May 2014, Output: 201405
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1996, Output: 199600
+11. MatchResult:  Input: 1997, Output: 199700
+1. MatchResult:  Input: (11 years 11 months), Output: 001111
+10. MatchResult:  Input: October 2002, Output: 200210
+0. MatchResult:  Input: Present, Output: 000000
+9. MatchResult:  Input: 4 years, Output: 000400
+11. MatchResult:  Input: 2010, Output: 201000
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1981, Output: 198100
+11. MatchResult:  Input: 1986, Output: 198600
+9. MatchResult:  Input: 10 months, Output: 000010
+10. MatchResult:  Input: February 2014, Output: 201402
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2010, Output: 201000
+11. MatchResult:  Input: 2011, Output: 201100
+9. MatchResult:  Input: (11 months), Output: 000011
+10. MatchResult:  Input: October 2013, Output: 201310
+0. MatchResult:  Input: Present, Output: 000000
+9. MatchResult:  Input: 4 months, Output: 000004
+10. MatchResult:  Input: March 2013, Output: 201303
+10. MatchResult:  Input: June 2013, Output: 201306
+0. MatchResult:  Input: Present, Output: 000000
+6. MatchResult:  Input: 1 year 8 months, Output: 000108
+10. MatchResult:  Input: April 2013, Output: 201304
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1979, Output: 197900
+11. MatchResult:  Input: 1981, Output: 198100
+0. MatchResult:  Input: Present, Output: 000000
+9. MatchResult:  Input: (8 months), Output: 000008
+10. MatchResult:  Input: February 2014, Output: 201402
+0. MatchResult:  Input: Present, Output: 000000
+5. MatchResult:  Input: 12 years 4 months, Output: 001204
+10. MatchResult:  Input: August 2002, Output: 200208
+0. MatchResult:  Input: Present, Output: 000000
+1. MatchResult:  Input: (6 years 5 months), Output: 000605
+10. MatchResult:  Input: May 2008, Output: 200805
+0. MatchResult:  Input: Present, Output: 000000
+5. MatchResult:  Input: 8 years 11 months, Output: 000811
+10. MatchResult:  Input: January 2006, Output: 200601
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1991, Output: 199100
+11. MatchResult:  Input: 1997, Output: 199700
+9. MatchResult:  Input: (8 months), Output: 000008
+10. MatchResult:  Input: February 2014, Output: 201402
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2009, Output: 200900
+11. MatchResult:  Input: 2013, Output: 201300
+5. MatchResult:  Input: 3 years 2 months, Output: 000302
+10. MatchResult:  Input: October 2011, Output: 201110
+0. MatchResult:  Input: Present, Output: 000000
+5. MatchResult:  Input: 2 years 6 months, Output: 000206
+10. MatchResult:  Input: June 2012, Output: 201206
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2012, Output: 201200
+11. MatchResult:  Input: 2015, Output: 201500
+8. MatchResult:  Input: 1 year 1 month, Output: 000101
+10. MatchResult:  Input: November 2013, Output: 201311
+0. MatchResult:  Input: Present, Output: 000000
+5. MatchResult:  Input: 9 years 7 months, Output: 000907
+10. MatchResult:  Input: May 2005, Output: 200505
+0. MatchResult:  Input: Present, Output: 000000
+9. MatchResult:  Input: 10 months, Output: 000010
+10. MatchResult:  Input: February 2014, Output: 201402
+0. MatchResult:  Input: Present, Output: 000000
+UNKNOWN RESULT: (less than a year), Unknown
+11. MatchResult:  Input: 2014, Output: 201400
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1994, Output: 199400
+11. MatchResult:  Input: 1997, Output: 199700
+9. MatchResult:  Input: (6 months), Output: 000006
+10. MatchResult:  Input: April 2014, Output: 201404
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1989, Output: 198900
+11. MatchResult:  Input: 1996, Output: 199600
+6. MatchResult:  Input: 1 year 11 months, Output: 000111
+10. MatchResult:  Input: January 2013, Output: 201301
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2013, Output: 201300
+11. MatchResult:  Input: 2013, Output: 201300
+0. MatchResult:  Input: Present, Output: 000000
+9. MatchResult:  Input: 10 years, Output: 001000
+11. MatchResult:  Input: 2004, Output: 200400
+0. MatchResult:  Input: Present, Output: 000000
+9. MatchResult:  Input: 6 years, Output: 000600
+11. MatchResult:  Input: 2007, Output: 200700
+10. MatchResult:  Input: January 2013, Output: 201301
+11. MatchResult:  Input: 2013, Output: 201300
+11. MatchResult:  Input: 2016, Output: 201600
+8. MatchResult:  Input: 1 year 1 month, Output: 000101
+10. MatchResult:  Input: November 2013, Output: 201311
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2004, Output: 200400
+11. MatchResult:  Input: 2008, Output: 200800
+9. MatchResult:  Input: 2 years, Output: 000200
+11. MatchResult:  Input: 2012, Output: 201200
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2004, Output: 200400
+11. MatchResult:  Input: 2010, Output: 201000
+5. MatchResult:  Input: 4 years 3 months, Output: 000403
+10. MatchResult:  Input: September 2010, Output: 201009
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1995, Output: 199500
+11. MatchResult:  Input: 1998, Output: 199800
+5. MatchResult:  Input: 7 years 11 months, Output: 000711
+10. MatchResult:  Input: January 2007, Output: 200701
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2002, Output: 200200
+11. MatchResult:  Input: 2005, Output: 200500
+5. MatchResult:  Input: 4 years 10 months, Output: 000410
+10. MatchResult:  Input: February 2010, Output: 201002
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2014, Output: 201400
+11. MatchResult:  Input: 2016, Output: 201600
+0. MatchResult:  Input: Present, Output: 000000
+5. MatchResult:  Input: 3 years 4 months, Output: 000304
+10. MatchResult:  Input: August 2011, Output: 201108
+0. MatchResult:  Input: Present, Output: 000000
+5. MatchResult:  Input: 5 years 2 months, Output: 000502
+10. MatchResult:  Input: October 2009, Output: 200910
+0. MatchResult:  Input: Present, Output: 000000
+5. MatchResult:  Input: 18 years 6 months, Output: 001806
+10. MatchResult:  Input: June 1996, Output: 199606
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2002, Output: 200200
+11. MatchResult:  Input: 2005, Output: 200500
+0. MatchResult:  Input: Present, Output: 000000
+9. MatchResult:  Input: (3 years), Output: 000300
+11. MatchResult:  Input: 1994, Output: 199400
+11. MatchResult:  Input: 1997, Output: 199700
+11. MatchResult:  Input: 2007, Output: 200700
+11. MatchResult:  Input: 2009, Output: 200900
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2011, Output: 201100
+11. MatchResult:  Input: 2012, Output: 201200
+0. MatchResult:  Input: Present, Output: 000000
+7. MatchResult:  Input: 2 years 1 month, Output: 000201
+10. MatchResult:  Input: November 2012, Output: 201211
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2004, Output: 200400
+11. MatchResult:  Input: 2006, Output: 200600
+3. MatchResult:  Input: (7 years 1 month), Output: 000701
+10. MatchResult:  Input: August 2007, Output: 200708
+0. MatchResult:  Input: Present, Output: 000000
+2. MatchResult:  Input: (1 year 11 months), Output: 000111
+10. MatchResult:  Input: October 2012, Output: 201210
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1982, Output: 198200
+11. MatchResult:  Input: 1987, Output: 198700
+9. MatchResult:  Input: 10 months, Output: 000010
+10. MatchResult:  Input: February 2014, Output: 201402
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2012, Output: 201200
+11. MatchResult:  Input: 2013, Output: 201300
+6. MatchResult:  Input: 1 year 4 months, Output: 000104
+10. MatchResult:  Input: August 2013, Output: 201308
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2006, Output: 200600
+11. MatchResult:  Input: 2009, Output: 200900
+9. MatchResult:  Input: 10 months, Output: 000010
+10. MatchResult:  Input: February 2014, Output: 201402
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1996, Output: 199600
+11. MatchResult:  Input: 1997, Output: 199700
+6. MatchResult:  Input: 1 year 4 months, Output: 000104
+10. MatchResult:  Input: August 2013, Output: 201308
+0. MatchResult:  Input: Present, Output: 000000
+9. MatchResult:  Input: 9 years, Output: 000900
+11. MatchResult:  Input: 2005, Output: 200500
+0. MatchResult:  Input: Present, Output: 000000
+0. MatchResult:  Input: Present, Output: 000000
+5. MatchResult:  Input: 3 years 7 months, Output: 000307
+10. MatchResult:  Input: October 2007, Output: 200710
+10. MatchResult:  Input: April 2011, Output: 201104
+11. MatchResult:  Input: 2003, Output: 200300
+11. MatchResult:  Input: 2006, Output: 200600
+11. MatchResult:  Input: 2009, Output: 200900
+11. MatchResult:  Input: 2010, Output: 201000
+0. MatchResult:  Input: Present, Output: 000000
+0. MatchResult:  Input: Present, Output: 000000
+1. MatchResult:  Input: (2 years 3 months), Output: 000203
+10. MatchResult:  Input: June 2012, Output: 201206
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2009, Output: 200900
+11. MatchResult:  Input: 2012, Output: 201200
+6. MatchResult:  Input: 1 year 5 months, Output: 000105
+10. MatchResult:  Input: July 2013, Output: 201307
+0. MatchResult:  Input: Present, Output: 000000
+5. MatchResult:  Input: 2 years 3 months, Output: 000203
+10. MatchResult:  Input: September 2012, Output: 201209
+0. MatchResult:  Input: Present, Output: 000000
+5. MatchResult:  Input: 6 years 7 months, Output: 000607
+10. MatchResult:  Input: May 2008, Output: 200805
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1990, Output: 199000
+11. MatchResult:  Input: 1995, Output: 199500
+5. MatchResult:  Input: 2 years 3 months, Output: 000203
+10. MatchResult:  Input: September 2012, Output: 201209
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2006, Output: 200600
+11. MatchResult:  Input: 2009, Output: 200900
+UNKNOWN RESULT: (2 meses), Unknown
+UNKNOWN RESULT: agosto de 2014, Unknown
+UNKNOWN RESULT: Presente, Unknown
+11. MatchResult:  Input: 2014, Output: 201400
+11. MatchResult:  Input: 2016, Output: 201600
+9. MatchResult:  Input: 8 years, Output: 000800
+11. MatchResult:  Input: 2006, Output: 200600
+0. MatchResult:  Input: Present, Output: 000000
+0. MatchResult:  Input: Present, Output: 000000
+5. MatchResult:  Input: 2 years 4 months, Output: 000204
+10. MatchResult:  Input: August 2012, Output: 201208
+0. MatchResult:  Input: Present, Output: 000000
+6. MatchResult:  Input: 1 year 4 months, Output: 000104
+10. MatchResult:  Input: August 2013, Output: 201308
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1977, Output: 197700
+11. MatchResult:  Input: 1982, Output: 198200
+0. MatchResult:  Input: Present, Output: 000000
+5. MatchResult:  Input: 4 years 9 months, Output: 000409
+10. MatchResult:  Input: March 2010, Output: 201003
+0. MatchResult:  Input: Present, Output: 000000
+0. MatchResult:  Input: Present, Output: 000000
+6. MatchResult:  Input: 1 year 7 months, Output: 000107
+10. MatchResult:  Input: May 2013, Output: 201305
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2005, Output: 200500
+11. MatchResult:  Input: 2011, Output: 201100
+0. MatchResult:  Input: Present, Output: 000000
+0. MatchResult:  Input: Present, Output: 000000
+0. MatchResult:  Input: Present, Output: 000000
+5. MatchResult:  Input: 5 years 3 months, Output: 000503
+10. MatchResult:  Input: September 2009, Output: 200909
+0. MatchResult:  Input: Present, Output: 000000
+9. MatchResult:  Input: 1 year, Output: 000100
+10. MatchResult:  Input: December 2013, Output: 201312
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1973, Output: 197300
+11. MatchResult:  Input: 1978, Output: 197800
+0. MatchResult:  Input: Present, Output: 000000
+5. MatchResult:  Input: 9 years 8 months, Output: 000908
+10. MatchResult:  Input: April 2005, Output: 200504
+0. MatchResult:  Input: Present, Output: 000000
+0. MatchResult:  Input: Present, Output: 000000
+1. MatchResult:  Input: (5 years 5 months), Output: 000505
+10. MatchResult:  Input: April 2009, Output: 200904
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2007, Output: 200700
+11. MatchResult:  Input: 2009, Output: 200900
+5. MatchResult:  Input: 5 years 8 months, Output: 000508
+10. MatchResult:  Input: April 2009, Output: 200904
+0. MatchResult:  Input: Present, Output: 000000
+5. MatchResult:  Input: 4 years 11 months, Output: 000411
+10. MatchResult:  Input: January 2010, Output: 201001
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1997, Output: 199700
+11. MatchResult:  Input: 2002, Output: 200200
+9. MatchResult:  Input: 4 years, Output: 000400
+11. MatchResult:  Input: 2007, Output: 200700
+11. MatchResult:  Input: 2011, Output: 201100
+11. MatchResult:  Input: 1979, Output: 197900
+11. MatchResult:  Input: 1983, Output: 198300
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1987, Output: 198700
+11. MatchResult:  Input: 1990, Output: 199000
+0. MatchResult:  Input: Present, Output: 000000
+5. MatchResult:  Input: 6 years 4 months, Output: 000604
+10. MatchResult:  Input: August 2008, Output: 200808
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1999, Output: 199900
+11. MatchResult:  Input: 2003, Output: 200300
+5. MatchResult:  Input: 2 years 7 months, Output: 000207
+10. MatchResult:  Input: May 2012, Output: 201205
+0. MatchResult:  Input: Present, Output: 000000
+0. MatchResult:  Input: Present, Output: 000000
+5. MatchResult:  Input: 2 years 3 months, Output: 000203
+10. MatchResult:  Input: September 2012, Output: 201209
+0. MatchResult:  Input: Present, Output: 000000
+0. MatchResult:  Input: Present, Output: 000000
+9. MatchResult:  Input: 4 months, Output: 000004
+10. MatchResult:  Input: August 2014, Output: 201408
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2011, Output: 201100
+11. MatchResult:  Input: 2013, Output: 201300
+10. MatchResult:  Input: January 2010, Output: 201001
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2010, Output: 201000
+11. MatchResult:  Input: 2010, Output: 201000
+7. MatchResult:  Input: 2 years 1 month, Output: 000201
+10. MatchResult:  Input: November 2012, Output: 201211
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2008, Output: 200800
+11. MatchResult:  Input: 2011, Output: 201100
+8. MatchResult:  Input: 1 year 1 month, Output: 000101
+10. MatchResult:  Input: November 2013, Output: 201311
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1969, Output: 196900
+11. MatchResult:  Input: 1974, Output: 197400
+0. MatchResult:  Input: Present, Output: 000000
+5. MatchResult:  Input: 28 years 2 months, Output: 002802
+10. MatchResult:  Input: October 1986, Output: 198610
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1961, Output: 196100
+11. MatchResult:  Input: 1965, Output: 196500
+6. MatchResult:  Input: 1 year 11 months, Output: 000111
+10. MatchResult:  Input: January 2013, Output: 201301
+0. MatchResult:  Input: Present, Output: 000000
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2009, Output: 200900
+11. MatchResult:  Input: 2010, Output: 201000
+11. MatchResult:  Input: 2012, Output: 201200
+11. MatchResult:  Input: 2014, Output: 201400
+3. MatchResult:  Input: (2 years 1 month), Output: 000201
+10. MatchResult:  Input: September 2012, Output: 201209
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1975, Output: 197500
+11. MatchResult:  Input: 1980, Output: 198000
+7. MatchResult:  Input: 11 years 1 month, Output: 001101
+10. MatchResult:  Input: November 2003, Output: 200311
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1988, Output: 198800
+11. MatchResult:  Input: 1992, Output: 199200
+5. MatchResult:  Input: 3 years 11 months, Output: 000311
+10. MatchResult:  Input: January 2009, Output: 200901
+10. MatchResult:  Input: November 2012, Output: 201211
+11. MatchResult:  Input: 2009, Output: 200900
+11. MatchResult:  Input: 2012, Output: 201200
+9. MatchResult:  Input: (2 months), Output: 000002
+10. MatchResult:  Input: July 2013, Output: 201307
+10. MatchResult:  Input: August 2013, Output: 201308
+11. MatchResult:  Input: 2010, Output: 201000
+11. MatchResult:  Input: 2013, Output: 201300
+0. MatchResult:  Input: Present, Output: 000000
+9. MatchResult:  Input: 5 months, Output: 000005
+10. MatchResult:  Input: July 2014, Output: 201407
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2014, Output: 201400
+11. MatchResult:  Input: 2015, Output: 201500
+5. MatchResult:  Input: 16 years 2 months, Output: 001602
+10. MatchResult:  Input: September 1998, Output: 199809
+10. MatchResult:  Input: October 2014, Output: 201410
+5. MatchResult:  Input: 13 years 2 months, Output: 001302
+10. MatchResult:  Input: October 2001, Output: 200110
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1987, Output: 198700
+11. MatchResult:  Input: 1990, Output: 199000
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2001, Output: 200100
+11. MatchResult:  Input: 2015, Output: 201500
+9. MatchResult:  Input: 1 month, Output: 000001
+10. MatchResult:  Input: November 2014, Output: 201411
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2013, Output: 201300
+11. MatchResult:  Input: 2016, Output: 201600
+5. MatchResult:  Input: 2 years 8 months, Output: 000208
+10. MatchResult:  Input: April 2012, Output: 201204
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2009, Output: 200900
+11. MatchResult:  Input: 2010, Output: 201000
+9. MatchResult:  Input: 2 months, Output: 000002
+10. MatchResult:  Input: June 2012, Output: 201206
+10. MatchResult:  Input: July 2012, Output: 201207
+11. MatchResult:  Input: 2011, Output: 201100
+11. MatchResult:  Input: 2015, Output: 201500
+6. MatchResult:  Input: 1 year 8 months, Output: 000108
+10. MatchResult:  Input: April 2013, Output: 201304
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1987, Output: 198700
+11. MatchResult:  Input: 1991, Output: 199100
+6. MatchResult:  Input: 1 year 7 months, Output: 000107
+10. MatchResult:  Input: May 2013, Output: 201305
+0. MatchResult:  Input: Present, Output: 000000
+8. MatchResult:  Input: 1 year 1 month, Output: 000101
+10. MatchResult:  Input: November 2013, Output: 201311
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2009, Output: 200900
+11. MatchResult:  Input: 2012, Output: 201200
+5. MatchResult:  Input: 6 years 3 months, Output: 000603
+10. MatchResult:  Input: September 2008, Output: 200809
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2013, Output: 201300
+11. MatchResult:  Input: 2015, Output: 201500
+0. MatchResult:  Input: Present, Output: 000000
+10. MatchResult:  Input: January 2001, Output: 200101
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1982, Output: 198200
+11. MatchResult:  Input: 1983, Output: 198300
+5. MatchResult:  Input: 8 years 5 months, Output: 000805
+10. MatchResult:  Input: July 2006, Output: 200607
+0. MatchResult:  Input: Present, Output: 000000
+9. MatchResult:  Input: 5 years, Output: 000500
+11. MatchResult:  Input: 2009, Output: 200900
+0. MatchResult:  Input: Present, Output: 000000
+UNKNOWN RESULT: (1 Ã¥r 5 mÃ¥neder), Unknown
+10. MatchResult:  Input: mai 2013, Output: 2013mai
+UNKNOWN RESULT: NÃ¥vÃ¦rende, Unknown
+11. MatchResult:  Input: 2012, Output: 201200
+11. MatchResult:  Input: 2016, Output: 201600
+9. MatchResult:  Input: 11 months, Output: 000011
+10. MatchResult:  Input: January 2014, Output: 201401
+0. MatchResult:  Input: Present, Output: 000000
+5. MatchResult:  Input: 4 years 4 months, Output: 000404
+10. MatchResult:  Input: August 2010, Output: 201008
+0. MatchResult:  Input: Present, Output: 000000
+5. MatchResult:  Input: 2 years 8 months, Output: 000208
+10. MatchResult:  Input: April 2012, Output: 201204
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2000, Output: 200000
+11. MatchResult:  Input: 2002, Output: 200200
+11. MatchResult:  Input: 2012, Output: 201200
+11. MatchResult:  Input: 2013, Output: 201300
+7. MatchResult:  Input: 2 years 1 month, Output: 000201
+10. MatchResult:  Input: November 2012, Output: 201211
+0. MatchResult:  Input: Present, Output: 000000
+0. MatchResult:  Input: Present, Output: 000000
+5. MatchResult:  Input: 3 years 10 months, Output: 000310
+10. MatchResult:  Input: February 2011, Output: 201102
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1986, Output: 198600
+0. MatchResult:  Input: Present, Output: 000000
+5. MatchResult:  Input: 4 years 10 months, Output: 000410
+10. MatchResult:  Input: February 2010, Output: 201002
+0. MatchResult:  Input: Present, Output: 000000
+9. MatchResult:  Input: 5 years, Output: 000500
+10. MatchResult:  Input: December 2009, Output: 200912
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2008, Output: 200800
+11. MatchResult:  Input: 2010, Output: 201000
+1. MatchResult:  Input: (29 years 5 months), Output: 002905
+10. MatchResult:  Input: May 1985, Output: 198505
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1983, Output: 198300
+11. MatchResult:  Input: 1985, Output: 198500
+0. MatchResult:  Input: Present, Output: 000000
+5. MatchResult:  Input: 9 years 2 months, Output: 000902
+10. MatchResult:  Input: October 2005, Output: 200510
+0. MatchResult:  Input: Present, Output: 000000
+1. MatchResult:  Input: (3 years 3 months), Output: 000303
+10. MatchResult:  Input: June 2011, Output: 201106
+0. MatchResult:  Input: Present, Output: 000000
+5. MatchResult:  Input: 20 years 7 months, Output: 002007
+10. MatchResult:  Input: May 1994, Output: 199405
+0. MatchResult:  Input: Present, Output: 000000
+9. MatchResult:  Input: (1 year), Output: 000100
+10. MatchResult:  Input: October 2013, Output: 201310
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2000, Output: 200000
+11. MatchResult:  Input: 2005, Output: 200500
+9. MatchResult:  Input: 7 months, Output: 000007
+10. MatchResult:  Input: May 2014, Output: 201405
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2009, Output: 200900
+11. MatchResult:  Input: 2013, Output: 201300
+0. MatchResult:  Input: Present, Output: 000000
+0. MatchResult:  Input: Present, Output: 000000
+5. MatchResult:  Input: 6 years 8 months, Output: 000608
+10. MatchResult:  Input: April 2008, Output: 200804
+0. MatchResult:  Input: Present, Output: 000000
+9. MatchResult:  Input: (7 years), Output: 000700
+11. MatchResult:  Input: 2007, Output: 200700
+0. MatchResult:  Input: Present, Output: 000000
+5. MatchResult:  Input: 8 years 3 months, Output: 000803
+10. MatchResult:  Input: September 2006, Output: 200609
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1973, Output: 197300
+11. MatchResult:  Input: 1978, Output: 197800
+1. MatchResult:  Input: (10 years 8 months), Output: 001008
+10. MatchResult:  Input: February 2004, Output: 200402
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1981, Output: 198100
+11. MatchResult:  Input: 1984, Output: 198400
+11. MatchResult:  Input: 2011, Output: 201100
+11. MatchResult:  Input: 2014, Output: 201400
+5. MatchResult:  Input: 5 years 6 months, Output: 000506
+10. MatchResult:  Input: June 2009, Output: 200906
+0. MatchResult:  Input: Present, Output: 000000
+0. MatchResult:  Input: Present, Output: 000000
+6. MatchResult:  Input: 1 year 7 months, Output: 000107
+10. MatchResult:  Input: May 2013, Output: 201305
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2006, Output: 200600
+11. MatchResult:  Input: 2008, Output: 200800
+6. MatchResult:  Input: 1 year 11 months, Output: 000111
+10. MatchResult:  Input: January 2013, Output: 201301
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2009, Output: 200900
+11. MatchResult:  Input: 2012, Output: 201200
+6. MatchResult:  Input: 1 year 3 months, Output: 000103
+10. MatchResult:  Input: September 2013, Output: 201309
+0. MatchResult:  Input: Present, Output: 000000
+0. MatchResult:  Input: Present, Output: 000000
+6. MatchResult:  Input: 1 year 10 months, Output: 000110
+10. MatchResult:  Input: February 2013, Output: 201302
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2000, Output: 200000
+11. MatchResult:  Input: 2002, Output: 200200
+5. MatchResult:  Input: 2 years 3 months, Output: 000203
+10. MatchResult:  Input: September 2012, Output: 201209
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2008, Output: 200800
+11. MatchResult:  Input: 2011, Output: 201100
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2013, Output: 201300
+11. MatchResult:  Input: 2014, Output: 201400
+9. MatchResult:  Input: 4 years, Output: 000400
+11. MatchResult:  Input: 2009, Output: 200900
+11. MatchResult:  Input: 2013, Output: 201300
+11. MatchResult:  Input: 2013, Output: 201300
+11. MatchResult:  Input: 2014, Output: 201400
+0. MatchResult:  Input: Present, Output: 000000
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1970, Output: 197000
+11. MatchResult:  Input: 1974, Output: 197400
+UNKNOWN RESULT: marÃ§o de 2013, Unknown
+UNKNOWN RESULT: maio de 2013, Unknown
+11. MatchResult:  Input: 2012, Output: 201200
+11. MatchResult:  Input: 2013, Output: 201300
+9. MatchResult:  Input: (9 years), Output: 000900
+11. MatchResult:  Input: 2005, Output: 200500
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2000, Output: 200000
+11. MatchResult:  Input: 2003, Output: 200300
+0. MatchResult:  Input: Present, Output: 000000
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2006, Output: 200600
+11. MatchResult:  Input: 2009, Output: 200900
+5. MatchResult:  Input: 25 years 11 months, Output: 002511
+10. MatchResult:  Input: January 1989, Output: 198901
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1958, Output: 195800
+11. MatchResult:  Input: 1964, Output: 196400
+9. MatchResult:  Input: 2 months, Output: 000002
+10. MatchResult:  Input: October 2014, Output: 201410
+0. MatchResult:  Input: Present, Output: 000000
+0. MatchResult:  Input: Present, Output: 000000
+5. MatchResult:  Input: 10 years 9 months, Output: 001009
+10. MatchResult:  Input: March 2004, Output: 200403
+0. MatchResult:  Input: Present, Output: 000000
+8. MatchResult:  Input: 1 year 1 month, Output: 000101
+10. MatchResult:  Input: November 2013, Output: 201311
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2010, Output: 201000
+11. MatchResult:  Input: 2012, Output: 201200
+9. MatchResult:  Input: 6 months, Output: 000006
+10. MatchResult:  Input: June 2014, Output: 201406
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2005, Output: 200500
+11. MatchResult:  Input: 2006, Output: 200600
+0. MatchResult:  Input: Present, Output: 000000
+0. MatchResult:  Input: Present, Output: 000000
+0. MatchResult:  Input: Present, Output: 000000
+8. MatchResult:  Input: 1 year 1 month, Output: 000101
+10. MatchResult:  Input: November 2013, Output: 201311
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2007, Output: 200700
+11. MatchResult:  Input: 2008, Output: 200800
+1. MatchResult:  Input: (5 years 2 months), Output: 000502
+10. MatchResult:  Input: August 2009, Output: 200908
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2000, Output: 200000
+11. MatchResult:  Input: 2001, Output: 200100
+6. MatchResult:  Input: 1 year 6 months, Output: 000106
+10. MatchResult:  Input: June 2013, Output: 201306
+0. MatchResult:  Input: Present, Output: 000000
+9. MatchResult:  Input: 2 months, Output: 000002
+10. MatchResult:  Input: October 2014, Output: 201410
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2010, Output: 201000
+11. MatchResult:  Input: 2013, Output: 201300
+9. MatchResult:  Input: 18 years, Output: 001800
+11. MatchResult:  Input: 1995, Output: 199500
+11. MatchResult:  Input: 2013, Output: 201300
+6. MatchResult:  Input: 1 year 11 months, Output: 000111
+10. MatchResult:  Input: January 2013, Output: 201301
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2010, Output: 201000
+11. MatchResult:  Input: 2013, Output: 201300
+5. MatchResult:  Input: 2 years 6 months, Output: 000206
+10. MatchResult:  Input: June 2012, Output: 201206
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2008, Output: 200800
+11. MatchResult:  Input: 2010, Output: 201000
+0. MatchResult:  Input: Present, Output: 000000
+5. MatchResult:  Input: 10 years 3 months, Output: 001003
+10. MatchResult:  Input: September 2004, Output: 200409
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1984, Output: 198400
+11. MatchResult:  Input: 1989, Output: 198900
+9. MatchResult:  Input: 4 months, Output: 000004
+10. MatchResult:  Input: August 2014, Output: 201408
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2014, Output: 201400
+11. MatchResult:  Input: 2015, Output: 201500
+6. MatchResult:  Input: 1 year 11 months, Output: 000111
+10. MatchResult:  Input: January 2013, Output: 201301
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2009, Output: 200900
+11. MatchResult:  Input: 2010, Output: 201000
+8. MatchResult:  Input: 1 year 1 month, Output: 000101
+10. MatchResult:  Input: November 2013, Output: 201311
+0. MatchResult:  Input: Present, Output: 000000
+1. MatchResult:  Input: (4 years 8 months), Output: 000408
+10. MatchResult:  Input: January 2010, Output: 201001
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2003, Output: 200300
+11. MatchResult:  Input: 2007, Output: 200700
+7. MatchResult:  Input: 2 years 1 month, Output: 000201
+10. MatchResult:  Input: November 2012, Output: 201211
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2008, Output: 200800
+11. MatchResult:  Input: 2009, Output: 200900
+0. MatchResult:  Input: Present, Output: 000000
+5. MatchResult:  Input: 3 years 3 months, Output: 000303
+10. MatchResult:  Input: September 2011, Output: 201109
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2007, Output: 200700
+11. MatchResult:  Input: 2009, Output: 200900
+5. MatchResult:  Input: 2 years 2 months, Output: 000202
+10. MatchResult:  Input: October 2012, Output: 201210
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2012, Output: 201200
+11. MatchResult:  Input: 2013, Output: 201300
+7. MatchResult:  Input: 6 years 1 month, Output: 000601
+10. MatchResult:  Input: November 2008, Output: 200811
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2005, Output: 200500
+1. MatchResult:  Input: (8 years 3 months), Output: 000803
+10. MatchResult:  Input: July 2006, Output: 200607
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2002, Output: 200200
+11. MatchResult:  Input: 2005, Output: 200500
+11. MatchResult:  Input: 2010, Output: 201000
+11. MatchResult:  Input: 2013, Output: 201300
+9. MatchResult:  Input: 1 year, Output: 000100
+10. MatchResult:  Input: December 2013, Output: 201312
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2007, Output: 200700
+11. MatchResult:  Input: 2011, Output: 201100
+0. MatchResult:  Input: Present, Output: 000000
+5. MatchResult:  Input: 4 years 6 months, Output: 000406
+10. MatchResult:  Input: June 2010, Output: 201006
+0. MatchResult:  Input: Present, Output: 000000
+0. MatchResult:  Input: Present, Output: 000000
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1986, Output: 198600
+11. MatchResult:  Input: 1990, Output: 199000
+9. MatchResult:  Input: (11 months), Output: 000011
+10. MatchResult:  Input: November 2013, Output: 201311
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2008, Output: 200800
+11. MatchResult:  Input: 2011, Output: 201100
+9. MatchResult:  Input: 8 months, Output: 000008
+10. MatchResult:  Input: April 2014, Output: 201404
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1982, Output: 198200
+11. MatchResult:  Input: 1986, Output: 198600
+0. MatchResult:  Input: Present, Output: 000000
+9. MatchResult:  Input: 3 years, Output: 000300
+10. MatchResult:  Input: December 2011, Output: 201112
+0. MatchResult:  Input: Present, Output: 000000
+9. MatchResult:  Input: (9 months), Output: 000009
+10. MatchResult:  Input: January 2014, Output: 201401
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1985, Output: 198500
+11. MatchResult:  Input: 1990, Output: 199000
+5. MatchResult:  Input: 3 years 4 months, Output: 000304
+10. MatchResult:  Input: August 2011, Output: 201108
+0. MatchResult:  Input: Present, Output: 000000
+0. MatchResult:  Input: Present, Output: 000000
+6. MatchResult:  Input: 1 year 5 months, Output: 000105
+10. MatchResult:  Input: July 2012, Output: 201207
+10. MatchResult:  Input: November 2013, Output: 201311
+11. MatchResult:  Input: 2013, Output: 201300
+11. MatchResult:  Input: 2015, Output: 201500
+7. MatchResult:  Input: 13 years 1 month, Output: 001301
+10. MatchResult:  Input: November 2001, Output: 200111
+0. MatchResult:  Input: Present, Output: 000000
+0. MatchResult:  Input: Present, Output: 000000
+10. MatchResult:  Input: January 2014, Output: 201401
+0. MatchResult:  Input: Present, Output: 000000
+0. MatchResult:  Input: Present, Output: 000000
+0. MatchResult:  Input: Present, Output: 000000
+9. MatchResult:  Input: (1 month), Output: 000001
+10. MatchResult:  Input: September 2014, Output: 201409
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2000, Output: 200000
+11. MatchResult:  Input: 2005, Output: 200500
+5. MatchResult:  Input: 2 years 4 months, Output: 000204
+10. MatchResult:  Input: August 2012, Output: 201208
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2008, Output: 200800
+11. MatchResult:  Input: 2012, Output: 201200
+9. MatchResult:  Input: 3 months, Output: 000003
+10. MatchResult:  Input: September 2014, Output: 201409
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1999, Output: 199900
+11. MatchResult:  Input: 2001, Output: 200100
+9. MatchResult:  Input: (6 months), Output: 000006
+10. MatchResult:  Input: April 2014, Output: 201404
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2008, Output: 200800
+11. MatchResult:  Input: 2009, Output: 200900
+0. MatchResult:  Input: Present, Output: 000000
+0. MatchResult:  Input: Present, Output: 000000
+1. MatchResult:  Input: (2 years 2 months), Output: 000202
+10. MatchResult:  Input: July 2012, Output: 201207
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2011, Output: 201100
+11. MatchResult:  Input: 2015, Output: 201500
+9. MatchResult:  Input: 7 months, Output: 000007
+10. MatchResult:  Input: May 2014, Output: 201405
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2000, Output: 200000
+11. MatchResult:  Input: 2003, Output: 200300
+0. MatchResult:  Input: Present, Output: 000000
+9. MatchResult:  Input: 6 months, Output: 000006
+10. MatchResult:  Input: June 2014, Output: 201406
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2013, Output: 201300
+11. MatchResult:  Input: 2017, Output: 201700
+6. MatchResult:  Input: 1 year 2 months, Output: 000102
+10. MatchResult:  Input: May 2013, Output: 201305
+10. MatchResult:  Input: June 2014, Output: 201406
+11. MatchResult:  Input: 2010, Output: 201000
+11. MatchResult:  Input: 2013, Output: 201300
+5. MatchResult:  Input: 18 years 6 months, Output: 001806
+10. MatchResult:  Input: June 1996, Output: 199606
+0. MatchResult:  Input: Present, Output: 000000
+0. MatchResult:  Input: Present, Output: 000000
+5. MatchResult:  Input: 5 years 2 months, Output: 000502
+10. MatchResult:  Input: October 2009, Output: 200910
+0. MatchResult:  Input: Present, Output: 000000
+5. MatchResult:  Input: 6 years 11 months, Output: 000611
+10. MatchResult:  Input: January 2008, Output: 200801
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1997, Output: 199700
+11. MatchResult:  Input: 2000, Output: 200000
+0. MatchResult:  Input: Present, Output: 000000
+5. MatchResult:  Input: 6 years 10 months, Output: 000610
+10. MatchResult:  Input: February 2008, Output: 200802
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1989, Output: 198900
+11. MatchResult:  Input: 1990, Output: 199000
+0. MatchResult:  Input: Present, Output: 000000
+0. MatchResult:  Input: Present, Output: 000000
+0. MatchResult:  Input: Present, Output: 000000
+0. MatchResult:  Input: Present, Output: 000000
+6. MatchResult:  Input: 1 year 10 months, Output: 000110
+10. MatchResult:  Input: February 2013, Output: 201302
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1996, Output: 199600
+11. MatchResult:  Input: 2003, Output: 200300
+0. MatchResult:  Input: Present, Output: 000000
+1. MatchResult:  Input: (24 years 8 months), Output: 002408
+10. MatchResult:  Input: January 1990, Output: 199001
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1985, Output: 198500
+11. MatchResult:  Input: 1988, Output: 198800
+6. MatchResult:  Input: 1 year 10 months, Output: 000110
+10. MatchResult:  Input: February 2013, Output: 201302
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1995, Output: 199500
+11. MatchResult:  Input: 2001, Output: 200100
+9. MatchResult:  Input: (5 months), Output: 000005
+10. MatchResult:  Input: April 2014, Output: 201404
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1998, Output: 199800
+11. MatchResult:  Input: 2004, Output: 200400
+0. MatchResult:  Input: Present, Output: 000000
+0. MatchResult:  Input: Present, Output: 000000
+0. MatchResult:  Input: Present, Output: 000000
+9. MatchResult:  Input: 3 months, Output: 000003
+10. MatchResult:  Input: September 2014, Output: 201409
+0. MatchResult:  Input: Present, Output: 000000
+9. MatchResult:  Input: 11 months, Output: 000011
+10. MatchResult:  Input: January 2014, Output: 201401
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1996, Output: 199600
+11. MatchResult:  Input: 1999, Output: 199900
+0. MatchResult:  Input: Present, Output: 000000
+9. MatchResult:  Input: (2 months), Output: 000002
+10. MatchResult:  Input: July 2014, Output: 201407
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2014, Output: 201400
+11. MatchResult:  Input: 2015, Output: 201500
+9. MatchResult:  Input: 2 months, Output: 000002
+10. MatchResult:  Input: October 2014, Output: 201410
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2011, Output: 201100
+11. MatchResult:  Input: 2015, Output: 201500
+5. MatchResult:  Input: 15 years 4 months, Output: 001504
+10. MatchResult:  Input: August 1999, Output: 199908
+0. MatchResult:  Input: Present, Output: 000000
+5. MatchResult:  Input: 10 years 10 months, Output: 001010
+10. MatchResult:  Input: February 2004, Output: 200402
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1990, Output: 199000
+11. MatchResult:  Input: 1991, Output: 199100
+0. MatchResult:  Input: Present, Output: 000000
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2007, Output: 200700
+11. MatchResult:  Input: 2013, Output: 201300
+5. MatchResult:  Input: 3 years 4 months, Output: 000304
+10. MatchResult:  Input: August 2011, Output: 201108
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1981, Output: 198100
+11. MatchResult:  Input: 1986, Output: 198600
+5. MatchResult:  Input: 4 years 6 months, Output: 000406
+10. MatchResult:  Input: June 2010, Output: 201006
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1991, Output: 199100
+11. MatchResult:  Input: 1996, Output: 199600
+11. MatchResult:  Input: 2011, Output: 201100
+11. MatchResult:  Input: 2015, Output: 201500
+0. MatchResult:  Input: Present, Output: 000000
+5. MatchResult:  Input: 6 years 3 months, Output: 000603
+10. MatchResult:  Input: September 2008, Output: 200809
+0. MatchResult:  Input: Present, Output: 000000
+0. MatchResult:  Input: Present, Output: 000000
+5. MatchResult:  Input: 33 years 6 months, Output: 003306
+10. MatchResult:  Input: June 1981, Output: 198106
+0. MatchResult:  Input: Present, Output: 000000
+0. MatchResult:  Input: Present, Output: 000000
+5. MatchResult:  Input: 2 years 8 months, Output: 000208
+10. MatchResult:  Input: April 2012, Output: 201204
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1989, Output: 198900
+11. MatchResult:  Input: 1993, Output: 199300
+9. MatchResult:  Input: (34 years), Output: 003400
+11. MatchResult:  Input: 1980, Output: 198000
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2009, Output: 200900
+11. MatchResult:  Input: 2014, Output: 201400
+0. MatchResult:  Input: Present, Output: 000000
+9. MatchResult:  Input: 3 months, Output: 000003
+10. MatchResult:  Input: September 2014, Output: 201409
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2013, Output: 201300
+11. MatchResult:  Input: 2014, Output: 201400
+9. MatchResult:  Input: 6 months, Output: 000006
+10. MatchResult:  Input: June 2014, Output: 201406
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2007, Output: 200700
+11. MatchResult:  Input: 2009, Output: 200900
+7. MatchResult:  Input: 2 years 1 month, Output: 000201
+10. MatchResult:  Input: November 2012, Output: 201211
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1972, Output: 197200
+11. MatchResult:  Input: 1979, Output: 197900
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1982, Output: 198200
+11. MatchResult:  Input: 1985, Output: 198500
+6. MatchResult:  Input: 1 year 7 months, Output: 000107
+10. MatchResult:  Input: May 2013, Output: 201305
+0. MatchResult:  Input: Present, Output: 000000
+5. MatchResult:  Input: 5 years 9 months, Output: 000509
+10. MatchResult:  Input: March 2009, Output: 200903
+0. MatchResult:  Input: Present, Output: 000000
+0. MatchResult:  Input: Present, Output: 000000
+9. MatchResult:  Input: 4 years, Output: 000400
+11. MatchResult:  Input: 2005, Output: 200500
+11. MatchResult:  Input: 2009, Output: 200900
+9. MatchResult:  Input: 10 years, Output: 001000
+11. MatchResult:  Input: 2004, Output: 200400
+0. MatchResult:  Input: Present, Output: 000000
+9. MatchResult:  Input: 8 months, Output: 000008
+10. MatchResult:  Input: April 2014, Output: 201404
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2002, Output: 200200
+11. MatchResult:  Input: 2004, Output: 200400
+9. MatchResult:  Input: 2 years, Output: 000200
+10. MatchResult:  Input: January 2011, Output: 201101
+10. MatchResult:  Input: December 2012, Output: 201212
+11. MatchResult:  Input: 2009, Output: 200900
+11. MatchResult:  Input: 2010, Output: 201000
+5. MatchResult:  Input: 3 years 3 months, Output: 000303
+10. MatchResult:  Input: September 2011, Output: 201109
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2005, Output: 200500
+11. MatchResult:  Input: 2010, Output: 201000
+5. MatchResult:  Input: 3 years 9 months, Output: 000309
+10. MatchResult:  Input: March 2011, Output: 201103
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2006, Output: 200600
+11. MatchResult:  Input: 2010, Output: 201000
+6. MatchResult:  Input: 1 year 8 months, Output: 000108
+10. MatchResult:  Input: April 2013, Output: 201304
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1990, Output: 199000
+11. MatchResult:  Input: 1993, Output: 199300
+0. MatchResult:  Input: Present, Output: 000000
+9. MatchResult:  Input: (7 months), Output: 000007
+10. MatchResult:  Input: March 2014, Output: 201403
+0. MatchResult:  Input: Present, Output: 000000
+1. MatchResult:  Input: (3 years 2 months), Output: 000302
+10. MatchResult:  Input: August 2011, Output: 201108
+0. MatchResult:  Input: Present, Output: 000000
+5. MatchResult:  Input: 7 years 4 months, Output: 000704
+10. MatchResult:  Input: August 2007, Output: 200708
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2004, Output: 200400
+11. MatchResult:  Input: 2010, Output: 201000
+9. MatchResult:  Input: 3 months, Output: 000003
+10. MatchResult:  Input: September 2014, Output: 201409
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2013, Output: 201300
+11. MatchResult:  Input: 2014, Output: 201400
+0. MatchResult:  Input: Present, Output: 000000
+2. MatchResult:  Input: (1 year 7 months), Output: 000107
+10. MatchResult:  Input: December 2010, Output: 201012
+10. MatchResult:  Input: June 2012, Output: 201206
+11. MatchResult:  Input: 2013, Output: 201300
+11. MatchResult:  Input: 2016, Output: 201600
+2. MatchResult:  Input: (1 year 5 months), Output: 000105
+10. MatchResult:  Input: May 2013, Output: 201305
+0. MatchResult:  Input: Present, Output: 000000
+3. MatchResult:  Input: (7 years 1 month), Output: 000701
+10. MatchResult:  Input: September 2007, Output: 200709
+0. MatchResult:  Input: Present, Output: 000000
+5. MatchResult:  Input: 3 years 7 months, Output: 000307
+10. MatchResult:  Input: March 2011, Output: 201103
+10. MatchResult:  Input: September 2014, Output: 201409
+9. MatchResult:  Input: 10 months, Output: 000010
+10. MatchResult:  Input: February 2014, Output: 201402
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2013, Output: 201300
+11. MatchResult:  Input: 2015, Output: 201500
+7. MatchResult:  Input: 6 years 1 month, Output: 000601
+10. MatchResult:  Input: November 2008, Output: 200811
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1982, Output: 198200
+11. MatchResult:  Input: 1984, Output: 198400
+9. MatchResult:  Input: (7 months), Output: 000007
+10. MatchResult:  Input: March 2014, Output: 201403
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1990, Output: 199000
+11. MatchResult:  Input: 1993, Output: 199300
+6. MatchResult:  Input: 1 year 4 months, Output: 000104
+10. MatchResult:  Input: August 2013, Output: 201308
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2011, Output: 201100
+11. MatchResult:  Input: 2012, Output: 201200
+0. MatchResult:  Input: Present, Output: 000000
+6. MatchResult:  Input: 1 year 10 months, Output: 000110
+10. MatchResult:  Input: February 2013, Output: 201302
+0. MatchResult:  Input: Present, Output: 000000
+5. MatchResult:  Input: 6 years 11 months, Output: 000611
+10. MatchResult:  Input: January 2008, Output: 200801
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1993, Output: 199300
+11. MatchResult:  Input: 2009, Output: 200900
+5. MatchResult:  Input: 13 years 11 months, Output: 001311
+10. MatchResult:  Input: January 2001, Output: 200101
+0. MatchResult:  Input: Present, Output: 000000
+0. MatchResult:  Input: Present, Output: 000000
+9. MatchResult:  Input: (3 months), Output: 000003
+10. MatchResult:  Input: July 2012, Output: 201207
+10. MatchResult:  Input: September 2012, Output: 201209
+11. MatchResult:  Input: 2008, Output: 200800
+11. MatchResult:  Input: 2013, Output: 201300
+6. MatchResult:  Input: 1 year 5 months, Output: 000105
+10. MatchResult:  Input: July 2013, Output: 201307
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1968, Output: 196800
+11. MatchResult:  Input: 1976, Output: 197600
+0. MatchResult:  Input: Present, Output: 000000
+3. MatchResult:  Input: (4 years 1 month), Output: 000401
+10. MatchResult:  Input: September 2010, Output: 201009
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2004, Output: 200400
+11. MatchResult:  Input: 2007, Output: 200700
+9. MatchResult:  Input: (9 months), Output: 000009
+10. MatchResult:  Input: January 2014, Output: 201401
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2013, Output: 201300
+11. MatchResult:  Input: 2013, Output: 201300
+1. MatchResult:  Input: (4 years 2 months), Output: 000402
+10. MatchResult:  Input: August 2010, Output: 201008
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1996, Output: 199600
+11. MatchResult:  Input: 1998, Output: 199800
+11. MatchResult:  Input: 2012, Output: 201200
+11. MatchResult:  Input: 2015, Output: 201500
+5. MatchResult:  Input: 13 years 9 months, Output: 001309
+10. MatchResult:  Input: March 2001, Output: 200103
+0. MatchResult:  Input: Present, Output: 000000
+6. MatchResult:  Input: 1 year 2 months, Output: 000102
+10. MatchResult:  Input: October 2013, Output: 201310
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2003, Output: 200300
+11. MatchResult:  Input: 2006, Output: 200600
+5. MatchResult:  Input: 2 years 7 months, Output: 000207
+10. MatchResult:  Input: May 2012, Output: 201205
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1996, Output: 199600
+11. MatchResult:  Input: 1997, Output: 199700
+5. MatchResult:  Input: 8 years 7 months, Output: 000807
+10. MatchResult:  Input: May 2006, Output: 200605
+0. MatchResult:  Input: Present, Output: 000000
+9. MatchResult:  Input: 4 months, Output: 000004
+10. MatchResult:  Input: August 2014, Output: 201408
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2012, Output: 201200
+11. MatchResult:  Input: 2014, Output: 201400
+9. MatchResult:  Input: (3 months), Output: 000003
+10. MatchResult:  Input: July 2014, Output: 201407
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2011, Output: 201100
+11. MatchResult:  Input: 2015, Output: 201500
+1. MatchResult:  Input: (17 years 8 months), Output: 001708
+10. MatchResult:  Input: February 1997, Output: 199702
+0. MatchResult:  Input: Present, Output: 000000
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1969, Output: 196900
+11. MatchResult:  Input: 1972, Output: 197200
+0. MatchResult:  Input: Present, Output: 000000
+0. MatchResult:  Input: Present, Output: 000000
+9. MatchResult:  Input: 2 years, Output: 000200
+11. MatchResult:  Input: 2010, Output: 201000
+11. MatchResult:  Input: 2012, Output: 201200
+UNKNOWN RESULT: less than a year, Unknown
+11. MatchResult:  Input: 2014, Output: 201400
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1980, Output: 198000
+11. MatchResult:  Input: 1997, Output: 199700
+5. MatchResult:  Input: 3 years 11 months, Output: 000311
+10. MatchResult:  Input: January 2011, Output: 201101
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1971, Output: 197100
+11. MatchResult:  Input: 1974, Output: 197400
+0. MatchResult:  Input: Present, Output: 000000
+0. MatchResult:  Input: Present, Output: 000000
+0. MatchResult:  Input: Present, Output: 000000
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1966, Output: 196600
+11. MatchResult:  Input: 1970, Output: 197000
+9. MatchResult:  Input: 4 months, Output: 000004
+10. MatchResult:  Input: August 2014, Output: 201408
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1998, Output: 199800
+11. MatchResult:  Input: 2001, Output: 200100
+0. MatchResult:  Input: Present, Output: 000000
+0. MatchResult:  Input: Present, Output: 000000
+9. MatchResult:  Input: 1 year, Output: 000100
+11. MatchResult:  Input: 2013, Output: 201300
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2009, Output: 200900
+11. MatchResult:  Input: 2013, Output: 201300
+6. MatchResult:  Input: 1 year 7 months, Output: 000107
+10. MatchResult:  Input: May 2013, Output: 201305
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2010, Output: 201000
+11. MatchResult:  Input: 2011, Output: 201100
+1. MatchResult:  Input: (14 years 5 months), Output: 001405
+10. MatchResult:  Input: April 2000, Output: 200004
+0. MatchResult:  Input: Present, Output: 000000
+9. MatchResult:  Input: 3 years, Output: 000300
+11. MatchResult:  Input: 2004, Output: 200400
+11. MatchResult:  Input: 2007, Output: 200700
+0. MatchResult:  Input: Present, Output: 000000
+9. MatchResult:  Input: (5 months), Output: 000005
+10. MatchResult:  Input: February 2008, Output: 200802
+10. MatchResult:  Input: June 2008, Output: 200806
+11. MatchResult:  Input: 2009, Output: 200900
+11. MatchResult:  Input: 2010, Output: 201000
+5. MatchResult:  Input: 14 years 8 months, Output: 001408
+10. MatchResult:  Input: April 2000, Output: 200004
+0. MatchResult:  Input: Present, Output: 000000
+5. MatchResult:  Input: 5 years 10 months, Output: 000510
+10. MatchResult:  Input: February 2009, Output: 200902
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1998, Output: 199800
+11. MatchResult:  Input: 2001, Output: 200100
+1. MatchResult:  Input: (2 years 6 months), Output: 000206
+10. MatchResult:  Input: March 2012, Output: 201203
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2001, Output: 200100
+11. MatchResult:  Input: 2005, Output: 200500
+0. MatchResult:  Input: Present, Output: 000000
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2006, Output: 200600
+11. MatchResult:  Input: 2006, Output: 200600
+9. MatchResult:  Input: 3 years, Output: 000300
+11. MatchResult:  Input: 2011, Output: 201100
+0. MatchResult:  Input: Present, Output: 000000
+0. MatchResult:  Input: Present, Output: 000000
+10. MatchResult:  Input: November 2013, Output: 201311
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2009, Output: 200900
+11. MatchResult:  Input: 2012, Output: 201200
+11. MatchResult:  Input: 1992, Output: 199200
+11. MatchResult:  Input: 1995, Output: 199500
+5. MatchResult:  Input: 11 years 8 months, Output: 001108
+10. MatchResult:  Input: April 2003, Output: 200304
+0. MatchResult:  Input: Present, Output: 000000
+6. MatchResult:  Input: 1 year 2 months, Output: 000102
+10. MatchResult:  Input: October 2013, Output: 201310
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2003, Output: 200300
+11. MatchResult:  Input: 2006, Output: 200600
+5. MatchResult:  Input: 2 years 3 months, Output: 000203
+10. MatchResult:  Input: September 2012, Output: 201209
+0. MatchResult:  Input: Present, Output: 000000
+0. MatchResult:  Input: Present, Output: 000000
+5. MatchResult:  Input: 9 years 11 months, Output: 000911
+10. MatchResult:  Input: January 2005, Output: 200501
+0. MatchResult:  Input: Present, Output: 000000
+1. MatchResult:  Input: (4 years 6 months), Output: 000406
+10. MatchResult:  Input: March 2007, Output: 200703
+10. MatchResult:  Input: August 2011, Output: 201108
+11. MatchResult:  Input: 2000, Output: 200000
+11. MatchResult:  Input: 2003, Output: 200300
+5. MatchResult:  Input: 3 years 9 months, Output: 000309
+10. MatchResult:  Input: March 2011, Output: 201103
+0. MatchResult:  Input: Present, Output: 000000
+9. MatchResult:  Input: 11 months, Output: 000011
+10. MatchResult:  Input: January 2012, Output: 201201
+10. MatchResult:  Input: November 2012, Output: 201211
+11. MatchResult:  Input: 1990, Output: 199000
+11. MatchResult:  Input: 1995, Output: 199500
+5. MatchResult:  Input: 3 years 3 months, Output: 000303
+10. MatchResult:  Input: September 2011, Output: 201109
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2011, Output: 201100
+11. MatchResult:  Input: 2014, Output: 201400
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2012, Output: 201200
+11. MatchResult:  Input: 2013, Output: 201300
+11. MatchResult:  Input: 2010, Output: 201000
+11. MatchResult:  Input: 2013, Output: 201300
+5. MatchResult:  Input: 3 years 8 months, Output: 000308
+10. MatchResult:  Input: April 2011, Output: 201104
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2000, Output: 200000
+11. MatchResult:  Input: 2003, Output: 200300
+6. MatchResult:  Input: 1 year 8 months, Output: 000108
+10. MatchResult:  Input: April 2013, Output: 201304
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2001, Output: 200100
+11. MatchResult:  Input: 2003, Output: 200300
+1. MatchResult:  Input: (9 years 6 months), Output: 000906
+10. MatchResult:  Input: April 2005, Output: 200504
+0. MatchResult:  Input: Present, Output: 000000
+5. MatchResult:  Input: 3 years 3 months, Output: 000303
+10. MatchResult:  Input: September 2011, Output: 201109
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1979, Output: 197900
+11. MatchResult:  Input: 1984, Output: 198400
+5. MatchResult:  Input: 4 years 9 months, Output: 000409
+10. MatchResult:  Input: March 2010, Output: 201003
+0. MatchResult:  Input: Present, Output: 000000
+9. MatchResult:  Input: (6 years), Output: 000600
+11. MatchResult:  Input: 2008, Output: 200800
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2006, Output: 200600
+11. MatchResult:  Input: 2009, Output: 200900
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2009, Output: 200900
+11. MatchResult:  Input: 2013, Output: 201300
+0. MatchResult:  Input: Present, Output: 000000
+0. MatchResult:  Input: Present, Output: 000000
+2. MatchResult:  Input: (1 year 2 months), Output: 000102
+10. MatchResult:  Input: August 2013, Output: 201308
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2005, Output: 200500
+11. MatchResult:  Input: 2009, Output: 200900
+0. MatchResult:  Input: Present, Output: 000000
+6. MatchResult:  Input: 1 year 2 months, Output: 000102
+10. MatchResult:  Input: October 2013, Output: 201310
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1999, Output: 199900
+11. MatchResult:  Input: 2005, Output: 200500
+9. MatchResult:  Input: (9 months), Output: 000009
+10. MatchResult:  Input: January 2014, Output: 201401
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1969, Output: 196900
+11. MatchResult:  Input: 1970, Output: 197000
+5. MatchResult:  Input: 6 years 3 months, Output: 000603
+10. MatchResult:  Input: September 2008, Output: 200809
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2008, Output: 200800
+11. MatchResult:  Input: 2011, Output: 201100
+5. MatchResult:  Input: 3 years 11 months, Output: 000311
+10. MatchResult:  Input: January 2011, Output: 201101
+0. MatchResult:  Input: Present, Output: 000000
+9. MatchResult:  Input: 3 months, Output: 000003
+10. MatchResult:  Input: September 2014, Output: 201409
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1991, Output: 199100
+11. MatchResult:  Input: 1996, Output: 199600
+5. MatchResult:  Input: 2 years 4 months, Output: 000204
+10. MatchResult:  Input: August 2012, Output: 201208
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1992, Output: 199200
+11. MatchResult:  Input: 1995, Output: 199500
+6. MatchResult:  Input: 1 year 4 months, Output: 000104
+10. MatchResult:  Input: August 2013, Output: 201308
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2004, Output: 200400
+11. MatchResult:  Input: 2008, Output: 200800
+9. MatchResult:  Input: 10 months, Output: 000010
+10. MatchResult:  Input: February 2014, Output: 201402
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1991, Output: 199100
+11. MatchResult:  Input: 1996, Output: 199600
+0. MatchResult:  Input: Present, Output: 000000
+5. MatchResult:  Input: 2 years 7 months, Output: 000207
+10. MatchResult:  Input: June 2011, Output: 201106
+10. MatchResult:  Input: December 2013, Output: 201312
+11. MatchResult:  Input: 1991, Output: 199100
+11. MatchResult:  Input: 1994, Output: 199400
+9. MatchResult:  Input: 9 months, Output: 000009
+10. MatchResult:  Input: March 2014, Output: 201403
+0. MatchResult:  Input: Present, Output: 000000
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1976, Output: 197600
+11. MatchResult:  Input: 1980, Output: 198000
+9. MatchResult:  Input: (3 months), Output: 000003
+10. MatchResult:  Input: April 2013, Output: 201304
+10. MatchResult:  Input: June 2013, Output: 201306
+11. MatchResult:  Input: 2010, Output: 201000
+11. MatchResult:  Input: 2011, Output: 201100
+1. MatchResult:  Input: (7 years 11 months), Output: 000711
+10. MatchResult:  Input: October 2006, Output: 200610
+0. MatchResult:  Input: Present, Output: 000000
+0. MatchResult:  Input: Present, Output: 000000
+0. MatchResult:  Input: Present, Output: 000000
+5. MatchResult:  Input: 8 years 11 months, Output: 000811
+10. MatchResult:  Input: January 2006, Output: 200601
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2009, Output: 200900
+11. MatchResult:  Input: 2014, Output: 201400
+1. MatchResult:  Input: (4 years 9 months), Output: 000409
+10. MatchResult:  Input: January 2010, Output: 201001
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2002, Output: 200200
+11. MatchResult:  Input: 2004, Output: 200400
+0. MatchResult:  Input: Present, Output: 000000
+1. MatchResult:  Input: (10 years 7 months), Output: 001007
+10. MatchResult:  Input: March 2004, Output: 200403
+0. MatchResult:  Input: Present, Output: 000000
+5. MatchResult:  Input: 3 years 11 months, Output: 000311
+10. MatchResult:  Input: January 2011, Output: 201101
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1992, Output: 199200
+11. MatchResult:  Input: 1997, Output: 199700
+1. MatchResult:  Input: (5 years 7 months), Output: 000507
+10. MatchResult:  Input: March 2009, Output: 200903
+0. MatchResult:  Input: Present, Output: 000000
+9. MatchResult:  Input: 8 months, Output: 000008
+10. MatchResult:  Input: April 2014, Output: 201404
+0. MatchResult:  Input: Present, Output: 000000
+8. MatchResult:  Input: 1 year 1 month, Output: 000101
+10. MatchResult:  Input: November 2013, Output: 201311
+0. MatchResult:  Input: Present, Output: 000000
+1. MatchResult:  Input: (3 years 2 months), Output: 000302
+10. MatchResult:  Input: August 2011, Output: 201108
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2009, Output: 200900
+11. MatchResult:  Input: 2010, Output: 201000
+0. MatchResult:  Input: Present, Output: 000000
+9. MatchResult:  Input: (2 years), Output: 000200
+11. MatchResult:  Input: 2012, Output: 201200
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1964, Output: 196400
+11. MatchResult:  Input: 1966, Output: 196600
+5. MatchResult:  Input: 9 years 11 months, Output: 000911
+10. MatchResult:  Input: January 2005, Output: 200501
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1995, Output: 199500
+11. MatchResult:  Input: 2000, Output: 200000
+9. MatchResult:  Input: (6 months), Output: 000006
+10. MatchResult:  Input: April 2014, Output: 201404
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2011, Output: 201100
+11. MatchResult:  Input: 2014, Output: 201400
+5. MatchResult:  Input: 6 years 8 months, Output: 000608
+10. MatchResult:  Input: April 2008, Output: 200804
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1983, Output: 198300
+11. MatchResult:  Input: 1987, Output: 198700
+0. MatchResult:  Input: Present, Output: 000000
+9. MatchResult:  Input: 8 months, Output: 000008
+10. MatchResult:  Input: April 2014, Output: 201404
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2010, Output: 201000
+11. MatchResult:  Input: 2012, Output: 201200
+1. MatchResult:  Input: (3 years 5 months), Output: 000305
+10. MatchResult:  Input: May 2011, Output: 201105
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1994, Output: 199400
+11. MatchResult:  Input: 1996, Output: 199600
+11. MatchResult:  Input: 2008, Output: 200800
+11. MatchResult:  Input: 2014, Output: 201400
+2. MatchResult:  Input: (1 year 9 months), Output: 000109
+10. MatchResult:  Input: January 2013, Output: 201301
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2001, Output: 200100
+11. MatchResult:  Input: 2005, Output: 200500
+9. MatchResult:  Input: 9 months, Output: 000009
+10. MatchResult:  Input: March 2014, Output: 201403
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1996, Output: 199600
+11. MatchResult:  Input: 1999, Output: 199900
+0. MatchResult:  Input: Present, Output: 000000
+9. MatchResult:  Input: (4 years), Output: 000400
+10. MatchResult:  Input: September 2010, Output: 201009
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2006, Output: 200600
+11. MatchResult:  Input: 2008, Output: 200800
+5. MatchResult:  Input: 2 years 7 months, Output: 000207
+10. MatchResult:  Input: May 2012, Output: 201205
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2008, Output: 200800
+11. MatchResult:  Input: 2011, Output: 201100
+5. MatchResult:  Input: 5 years 5 months, Output: 000505
+10. MatchResult:  Input: July 2009, Output: 200907
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2014, Output: 201400
+11. MatchResult:  Input: 2014, Output: 201400
+6. MatchResult:  Input: 1 year 9 months, Output: 000109
+10. MatchResult:  Input: March 2013, Output: 201303
+0. MatchResult:  Input: Present, Output: 000000
+5. MatchResult:  Input: 4 years 9 months, Output: 000409
+10. MatchResult:  Input: March 2010, Output: 201003
+0. MatchResult:  Input: Present, Output: 000000
+0. MatchResult:  Input: Present, Output: 000000
+9. MatchResult:  Input: 10 years, Output: 001000
+10. MatchResult:  Input: December 2004, Output: 200412
+0. MatchResult:  Input: Present, Output: 000000
+5. MatchResult:  Input: 6 years 5 months, Output: 000605
+10. MatchResult:  Input: July 2008, Output: 200807
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1994, Output: 199400
+11. MatchResult:  Input: 2000, Output: 200000
+9. MatchResult:  Input: (9 months), Output: 000009
+10. MatchResult:  Input: December 2013, Output: 201312
+0. MatchResult:  Input: Present, Output: 000000
+5. MatchResult:  Input: 3 years 10 months, Output: 000310
+10. MatchResult:  Input: February 2011, Output: 201102
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2007, Output: 200700
+11. MatchResult:  Input: 2010, Output: 201000
+9. MatchResult:  Input: 9 months, Output: 000009
+10. MatchResult:  Input: March 2014, Output: 201403
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2005, Output: 200500
+11. MatchResult:  Input: 2008, Output: 200800
+7. MatchResult:  Input: 7 years 1 month, Output: 000701
+10. MatchResult:  Input: November 2007, Output: 200711
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2010, Output: 201000
+11. MatchResult:  Input: 2013, Output: 201300
+1. MatchResult:  Input: (2 years 6 months), Output: 000206
+10. MatchResult:  Input: April 2012, Output: 201204
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2013, Output: 201300
+11. MatchResult:  Input: 2015, Output: 201500
+9. MatchResult:  Input: 7 months, Output: 000007
+10. MatchResult:  Input: May 2014, Output: 201405
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1998, Output: 199800
+11. MatchResult:  Input: 2001, Output: 200100
+0. MatchResult:  Input: Present, Output: 000000
+9. MatchResult:  Input: (3 months), Output: 000003
+10. MatchResult:  Input: June 2012, Output: 201206
+10. MatchResult:  Input: August 2012, Output: 201208
+11. MatchResult:  Input: 2012, Output: 201200
+11. MatchResult:  Input: 2013, Output: 201300
+9. MatchResult:  Input: 2 years, Output: 000200
+10. MatchResult:  Input: December 2012, Output: 201212
+0. MatchResult:  Input: Present, Output: 000000
+5. MatchResult:  Input: 5 years 8 months, Output: 000508
+10. MatchResult:  Input: April 2009, Output: 200904
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1963, Output: 196300
+11. MatchResult:  Input: 1969, Output: 196900
+6. MatchResult:  Input: 1 year 2 months, Output: 000102
+10. MatchResult:  Input: October 2013, Output: 201310
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1999, Output: 199900
+11. MatchResult:  Input: 2000, Output: 200000
+6. MatchResult:  Input: 1 year 2 months, Output: 000102
+10. MatchResult:  Input: October 2013, Output: 201310
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2014, Output: 201400
+11. MatchResult:  Input: 2015, Output: 201500
+0. MatchResult:  Input: Present, Output: 000000
+9. MatchResult:  Input: (3 months), Output: 000003
+10. MatchResult:  Input: July 2014, Output: 201407
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1986, Output: 198600
+11. MatchResult:  Input: 1989, Output: 198900
+5. MatchResult:  Input: 3 years 11 months, Output: 000311
+10. MatchResult:  Input: January 2011, Output: 201101
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1992, Output: 199200
+11. MatchResult:  Input: 1996, Output: 199600
+1. MatchResult:  Input: (12 years 9 months), Output: 001209
+10. MatchResult:  Input: January 2002, Output: 200201
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 2010, Output: 201000
+11. MatchResult:  Input: 2012, Output: 201200
+0. MatchResult:  Input: Present, Output: 000000
+5. MatchResult:  Input: 14 years 11 months, Output: 001411
+10. MatchResult:  Input: January 2000, Output: 200001
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1967, Output: 196700
+11. MatchResult:  Input: 1969, Output: 196900
+5. MatchResult:  Input: 3 years 4 months, Output: 000304
+10. MatchResult:  Input: August 2011, Output: 201108
+0. MatchResult:  Input: Present, Output: 000000
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1970, Output: 197000
+11. MatchResult:  Input: 1975, Output: 197500
+10. MatchResult:  Input: January 2005, Output: 200501
+0. MatchResult:  Input: Present, Output: 000000
+11. MatchResult:  Input: 1962, Output: 196200
+11. MatchResult:  Input: 1965, Output: 196500
+0. MatchResult:  Input: Present, Output: 000000
+0. MatchResult:  Input: Present, Output: 000000
+0. MatchResult:  Input: Present, Output: 000000
+5. MatchResult:  Input: 6 years 8 months, Output: 000608
+10. MatchResult:  Input: April 2008, Output: 200804
+0. MatchResult:  Input: Present, Output: 000000
+1. MatchResult:  Input: (10 years 2 months), Output: 001002
+10. MatchResult:  Input: August 2004, Output: 200408
+0. MatchResult:  Input: Present, Output: 000000
+0. MatchResult:  Input: Present, Output: 000000
+Processed 1000 lines
+10:47:44
